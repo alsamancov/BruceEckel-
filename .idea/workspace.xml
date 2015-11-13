@@ -2,22 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c11404aa-dddc-48a6-8c31-93898d45847f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/mindview/simple/List01.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/mindview/simple/List02.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/mindview/simple/List03.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/mindview/simple/List04.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/mindview/simple/List05.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/mindview/simple/List06.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/mindview/simple/List07.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/mindview/simple/List08.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/mindview/simple/Vector01.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/mindview/simple/Vector02.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/mindview/simple/Vector03.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/mindview/simple/Vector04.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/mindview/simple/Vector05.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/mindview/simple/Vector06.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/mindview/simple/Vector07.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/mindview/simple/Vector08.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter06/lesson03/net/mindview/simple/List04.java" />
+      <change type="DELETED" beforePath="C:\BruceEckel\src\main\java\Chapter06\lesson03\List04.java" afterPath="" />
+      <change type="MOVED" beforePath="C:\BruceEckel\src\main\java\Chapter06\lesson03\List01.java" afterPath="$PROJECT_DIR$/src/main/java/Chapter06/lesson03/net/mindview/simple/List01.java" />
+      <change type="MOVED" beforePath="C:\BruceEckel\src\main\java\Chapter06\lesson03\List02.java" afterPath="$PROJECT_DIR$/src/main/java/Chapter06/lesson03/net/mindview/simple/List02.java" />
+      <change type="MOVED" beforePath="C:\BruceEckel\src\main\java\Chapter06\lesson03\List03.java" afterPath="$PROJECT_DIR$/src/main/java/Chapter06/lesson03/net/mindview/simple/List03.java" />
+      <change type="MOVED" beforePath="C:\BruceEckel\src\main\java\Chapter06\lesson03\List05.java" afterPath="$PROJECT_DIR$/src/main/java/Chapter06/lesson03/net/mindview/simple/List05.java" />
+      <change type="MOVED" beforePath="C:\BruceEckel\src\main\java\Chapter06\lesson03\List06.java" afterPath="$PROJECT_DIR$/src/main/java/Chapter06/lesson03/net/mindview/simple/List06.java" />
+      <change type="MOVED" beforePath="C:\BruceEckel\src\main\java\Chapter06\lesson03\List07.java" afterPath="$PROJECT_DIR$/src/main/java/Chapter06/lesson03/net/mindview/simple/List07.java" />
+      <change type="MOVED" beforePath="C:\BruceEckel\src\main\java\Chapter06\lesson03\List08.java" afterPath="$PROJECT_DIR$/src/main/java/Chapter06/lesson03/net/mindview/simple/List08.java" />
+      <change type="MOVED" beforePath="C:\BruceEckel\src\main\java\Chapter06\lesson03\Vector01.java" afterPath="$PROJECT_DIR$/src/main/java/Chapter06/lesson03/net/mindview/simple/Vector01.java" />
+      <change type="MOVED" beforePath="C:\BruceEckel\src\main\java\Chapter06\lesson03\Vector02.java" afterPath="$PROJECT_DIR$/src/main/java/Chapter06/lesson03/net/mindview/simple/Vector02.java" />
+      <change type="MOVED" beforePath="C:\BruceEckel\src\main\java\Chapter06\lesson03\Vector03.java" afterPath="$PROJECT_DIR$/src/main/java/Chapter06/lesson03/net/mindview/simple/Vector03.java" />
+      <change type="MOVED" beforePath="C:\BruceEckel\src\main\java\Chapter06\lesson03\Vector04.java" afterPath="$PROJECT_DIR$/src/main/java/Chapter06/lesson03/net/mindview/simple/Vector04.java" />
+      <change type="MOVED" beforePath="C:\BruceEckel\src\main\java\Chapter06\lesson03\Vector05.java" afterPath="$PROJECT_DIR$/src/main/java/Chapter06/lesson03/net/mindview/simple/Vector05.java" />
+      <change type="MOVED" beforePath="C:\BruceEckel\src\main\java\Chapter06\lesson03\Vector06.java" afterPath="$PROJECT_DIR$/src/main/java/Chapter06/lesson03/net/mindview/simple/Vector06.java" />
+      <change type="MOVED" beforePath="C:\BruceEckel\src\main\java\Chapter06\lesson03\Vector07.java" afterPath="$PROJECT_DIR$/src/main/java/Chapter06/lesson03/net/mindview/simple/Vector07.java" />
+      <change type="MOVED" beforePath="C:\BruceEckel\src\main\java\Chapter06\lesson03\Vector08.java" afterPath="$PROJECT_DIR$/src/main/java/Chapter06/lesson03/net/mindview/simple/Vector08.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="BruceEckel.iws" />
@@ -42,130 +43,130 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="Vector01.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/net/mindview/simple/Vector01.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06/lesson03/net/mindview/simple/Vector01.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="272">
-              <caret line="7" column="56" selection-start-line="7" selection-start-column="56" selection-end-line="7" selection-end-column="56" />
+              <caret line="7" column="61" selection-start-line="7" selection-start-column="61" selection-end-line="7" selection-end-column="61" />
               <folding>
-                <element signature="e#120#121#0" expanded="true" />
-                <element signature="e#186#187#0" expanded="true" />
+                <element signature="e#139#140#0" expanded="true" />
+                <element signature="e#210#211#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="Vector02.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/net/mindview/simple/Vector02.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06/lesson03/net/mindview/simple/Vector02.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="272">
-              <caret line="7" column="59" selection-start-line="7" selection-start-column="59" selection-end-line="7" selection-end-column="59" />
+              <caret line="7" column="64" selection-start-line="7" selection-start-column="64" selection-end-line="7" selection-end-column="64" />
               <folding>
-                <element signature="e#120#121#0" expanded="true" />
-                <element signature="e#186#187#0" expanded="true" />
+                <element signature="e#139#140#0" expanded="true" />
+                <element signature="e#210#211#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="List01.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/net/mindview/simple/List01.java">
+      <file leaf-file-name="List01.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06/lesson03/net/mindview/simple/List01.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="272">
-              <caret line="7" column="54" selection-start-line="7" selection-start-column="54" selection-end-line="7" selection-end-column="54" />
+            <state vertical-scroll-proportion="0.15494792" vertical-offset="0" max-vertical-offset="768">
+              <caret line="7" column="59" selection-start-line="7" selection-start-column="59" selection-end-line="7" selection-end-column="59" />
               <folding>
-                <element signature="e#116#117#0" expanded="true" />
-                <element signature="e#180#181#0" expanded="true" />
+                <element signature="e#135#136#0" expanded="true" />
+                <element signature="e#204#205#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="List02.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/net/mindview/simple/List02.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06/lesson03/net/mindview/simple/List02.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="272">
-              <caret line="7" column="57" selection-start-line="7" selection-start-column="57" selection-end-line="7" selection-end-column="57" />
+              <caret line="7" column="62" selection-start-line="7" selection-start-column="62" selection-end-line="7" selection-end-column="62" />
               <folding>
-                <element signature="e#116#117#0" expanded="true" />
-                <element signature="e#180#181#0" expanded="true" />
+                <element signature="e#135#136#0" expanded="true" />
+                <element signature="e#204#205#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="List03.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/net/mindview/simple/List03.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06/lesson03/net/mindview/simple/List03.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="272">
-              <caret line="7" column="57" selection-start-line="7" selection-start-column="57" selection-end-line="7" selection-end-column="57" />
+              <caret line="7" column="62" selection-start-line="7" selection-start-column="62" selection-end-line="7" selection-end-column="62" />
               <folding>
-                <element signature="e#116#117#0" expanded="true" />
-                <element signature="e#180#181#0" expanded="true" />
+                <element signature="e#135#136#0" expanded="true" />
+                <element signature="e#204#205#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="List04.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/net/mindview/simple/List04.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06/lesson03/net/mindview/simple/List04.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="272">
               <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
               <folding>
-                <element signature="e#116#117#0" expanded="true" />
-                <element signature="e#174#175#0" expanded="true" />
+                <element signature="e#135#136#0" expanded="true" />
+                <element signature="e#212#213#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="List05.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/net/mindview/simple/List05.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06/lesson03/net/mindview/simple/List05.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="272">
-              <caret line="7" column="57" selection-start-line="7" selection-start-column="57" selection-end-line="7" selection-end-column="57" />
+              <caret line="7" column="62" selection-start-line="7" selection-start-column="62" selection-end-line="7" selection-end-column="62" />
               <folding>
-                <element signature="e#116#117#0" expanded="true" />
-                <element signature="e#180#181#0" expanded="true" />
+                <element signature="e#135#136#0" expanded="true" />
+                <element signature="e#204#205#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="List06.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/net/mindview/simple/List06.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06/lesson03/net/mindview/simple/List06.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="272">
-              <caret line="7" column="54" selection-start-line="7" selection-start-column="54" selection-end-line="7" selection-end-column="54" />
+              <caret line="7" column="59" selection-start-line="7" selection-start-column="59" selection-end-line="7" selection-end-column="59" />
               <folding>
-                <element signature="e#116#117#0" expanded="true" />
-                <element signature="e#180#181#0" expanded="true" />
+                <element signature="e#135#136#0" expanded="true" />
+                <element signature="e#204#205#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="List07.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/net/mindview/simple/List07.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06/lesson03/net/mindview/simple/List07.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="272">
-              <caret line="7" column="57" selection-start-line="7" selection-start-column="57" selection-end-line="7" selection-end-column="57" />
+              <caret line="7" column="62" selection-start-line="7" selection-start-column="62" selection-end-line="7" selection-end-column="62" />
               <folding>
-                <element signature="e#116#117#0" expanded="true" />
-                <element signature="e#180#181#0" expanded="true" />
+                <element signature="e#135#136#0" expanded="true" />
+                <element signature="e#204#205#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="List08.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/net/mindview/simple/List08.java">
+      <file leaf-file-name="List08.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06/lesson03/net/mindview/simple/List08.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.15494792" vertical-offset="0" max-vertical-offset="768">
-              <caret line="7" column="57" selection-start-line="7" selection-start-column="57" selection-end-line="7" selection-end-column="57" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="272">
+              <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
               <folding>
-                <element signature="e#116#117#0" expanded="true" />
-                <element signature="e#180#181#0" expanded="true" />
+                <element signature="e#135#136#0" expanded="true" />
+                <element signature="e#204#205#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -238,6 +239,9 @@
         <option value="$PROJECT_DIR$/src/main/java/net/mindview/simple/List06.java" />
         <option value="$PROJECT_DIR$/src/main/java/net/mindview/simple/List07.java" />
         <option value="$PROJECT_DIR$/src/main/java/net/mindview/simple/List08.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chapter06/lesson03/List08.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chapter06/lesson03/net/simple/List01.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chapter06/lesson03/net/mindview/List01.java" />
       </list>
     </option>
   </component>
@@ -345,6 +349,14 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Chapter06" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lesson03" />
               <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -638,7 +650,7 @@
       <workItem from="1447245088961" duration="18000" />
       <workItem from="1447245163188" duration="6587000" />
       <workItem from="1447256002125" duration="734000" />
-      <workItem from="1447420424585" duration="5880000" />
+      <workItem from="1447420424585" duration="6936000" />
     </task>
     <task id="LOCAL-00001" summary="first commit&#10;">
       <created>1447245403042</created>
@@ -668,11 +680,19 @@
       <created>1447422954706</created>
       <updated>1447422954706</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="add classes for lesson03">
+      <created>1447427358128</created>
+      <updated>1447427358128</updated>
+    </task>
+    <task id="LOCAL-00009" summary="add classes for lesson03">
+      <created>1447427412694</created>
+      <updated>1447427412694</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13219000" />
+    <option name="totallyTimeSpent" value="14275000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="960" y="0" width="960" height="1032" extended-state="0" />
@@ -683,6 +703,7 @@
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905483" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -701,7 +722,6 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="SVN Repositories" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32914287" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -725,7 +745,8 @@
     <MESSAGE value="first commit&#10;" />
     <MESSAGE value="second commit&#10;" />
     <MESSAGE value="add ImportedClass in lesson02" />
-    <option name="LAST_COMMIT_MESSAGE" value="add ImportedClass in lesson02" />
+    <MESSAGE value="add classes for lesson03" />
+    <option name="LAST_COMMIT_MESSAGE" value="add classes for lesson03" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1020,178 +1041,178 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/net/mindview/simple/Vector03.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06/lesson03/net/mindview/simple/Vector03.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="272">
           <caret line="7" column="59" selection-start-line="7" selection-start-column="59" selection-end-line="7" selection-end-column="59" />
           <folding>
-            <element signature="e#120#121#0" expanded="true" />
-            <element signature="e#186#187#0" expanded="true" />
+            <element signature="e#139#140#0" expanded="true" />
+            <element signature="e#210#211#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/net/mindview/simple/Vector04.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06/lesson03/net/mindview/simple/Vector04.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="272">
           <caret line="7" column="59" selection-start-line="7" selection-start-column="59" selection-end-line="7" selection-end-column="59" />
           <folding>
-            <element signature="e#120#121#0" expanded="true" />
-            <element signature="e#186#187#0" expanded="true" />
+            <element signature="e#139#140#0" expanded="true" />
+            <element signature="e#210#211#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/net/mindview/simple/Vector05.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06/lesson03/net/mindview/simple/Vector05.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="272">
           <caret line="7" column="59" selection-start-line="7" selection-start-column="59" selection-end-line="7" selection-end-column="59" />
           <folding>
-            <element signature="e#120#121#0" expanded="true" />
-            <element signature="e#186#187#0" expanded="true" />
+            <element signature="e#139#140#0" expanded="true" />
+            <element signature="e#210#211#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/net/mindview/simple/Vector06.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06/lesson03/net/mindview/simple/Vector06.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="272">
           <caret line="7" column="59" selection-start-line="7" selection-start-column="59" selection-end-line="7" selection-end-column="59" />
           <folding>
-            <element signature="e#120#121#0" expanded="true" />
-            <element signature="e#186#187#0" expanded="true" />
+            <element signature="e#139#140#0" expanded="true" />
+            <element signature="e#210#211#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/net/mindview/simple/Vector07.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06/lesson03/net/mindview/simple/Vector07.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="272">
           <caret line="7" column="59" selection-start-line="7" selection-start-column="59" selection-end-line="7" selection-end-column="59" />
           <folding>
-            <element signature="e#120#121#0" expanded="true" />
-            <element signature="e#186#187#0" expanded="true" />
+            <element signature="e#139#140#0" expanded="true" />
+            <element signature="e#210#211#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/net/mindview/simple/Vector08.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06/lesson03/net/mindview/simple/Vector08.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="272">
           <caret line="7" column="59" selection-start-line="7" selection-start-column="59" selection-end-line="7" selection-end-column="59" />
           <folding>
-            <element signature="e#120#121#0" expanded="true" />
-            <element signature="e#186#187#0" expanded="true" />
+            <element signature="e#139#140#0" expanded="true" />
+            <element signature="e#210#211#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/net/mindview/simple/Vector02.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06/lesson03/net/mindview/simple/Vector02.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="272">
-          <caret line="7" column="59" selection-start-line="7" selection-start-column="59" selection-end-line="7" selection-end-column="59" />
+          <caret line="7" column="64" selection-start-line="7" selection-start-column="64" selection-end-line="7" selection-end-column="64" />
           <folding>
-            <element signature="e#120#121#0" expanded="true" />
-            <element signature="e#186#187#0" expanded="true" />
+            <element signature="e#139#140#0" expanded="true" />
+            <element signature="e#210#211#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/net/mindview/simple/Vector01.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06/lesson03/net/mindview/simple/Vector01.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="272">
-          <caret line="7" column="56" selection-start-line="7" selection-start-column="56" selection-end-line="7" selection-end-column="56" />
+          <caret line="7" column="61" selection-start-line="7" selection-start-column="61" selection-end-line="7" selection-end-column="61" />
           <folding>
-            <element signature="e#120#121#0" expanded="true" />
-            <element signature="e#186#187#0" expanded="true" />
+            <element signature="e#139#140#0" expanded="true" />
+            <element signature="e#210#211#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/net/mindview/simple/List01.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06/lesson03/net/mindview/simple/List02.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="272">
-          <caret line="7" column="54" selection-start-line="7" selection-start-column="54" selection-end-line="7" selection-end-column="54" />
+          <caret line="7" column="62" selection-start-line="7" selection-start-column="62" selection-end-line="7" selection-end-column="62" />
           <folding>
-            <element signature="e#116#117#0" expanded="true" />
-            <element signature="e#180#181#0" expanded="true" />
+            <element signature="e#135#136#0" expanded="true" />
+            <element signature="e#204#205#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/net/mindview/simple/List02.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06/lesson03/net/mindview/simple/List03.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="272">
-          <caret line="7" column="57" selection-start-line="7" selection-start-column="57" selection-end-line="7" selection-end-column="57" />
+          <caret line="7" column="62" selection-start-line="7" selection-start-column="62" selection-end-line="7" selection-end-column="62" />
           <folding>
-            <element signature="e#116#117#0" expanded="true" />
-            <element signature="e#180#181#0" expanded="true" />
+            <element signature="e#135#136#0" expanded="true" />
+            <element signature="e#204#205#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/net/mindview/simple/List03.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="272">
-          <caret line="7" column="57" selection-start-line="7" selection-start-column="57" selection-end-line="7" selection-end-column="57" />
-          <folding>
-            <element signature="e#116#117#0" expanded="true" />
-            <element signature="e#180#181#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/net/mindview/simple/List04.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06/lesson03/net/mindview/simple/List04.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="272">
           <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
           <folding>
-            <element signature="e#116#117#0" expanded="true" />
-            <element signature="e#174#175#0" expanded="true" />
+            <element signature="e#135#136#0" expanded="true" />
+            <element signature="e#212#213#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/net/mindview/simple/List05.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06/lesson03/net/mindview/simple/List05.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="272">
-          <caret line="7" column="57" selection-start-line="7" selection-start-column="57" selection-end-line="7" selection-end-column="57" />
+          <caret line="7" column="62" selection-start-line="7" selection-start-column="62" selection-end-line="7" selection-end-column="62" />
           <folding>
-            <element signature="e#116#117#0" expanded="true" />
-            <element signature="e#180#181#0" expanded="true" />
+            <element signature="e#135#136#0" expanded="true" />
+            <element signature="e#204#205#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/net/mindview/simple/List06.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06/lesson03/net/mindview/simple/List06.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="272">
-          <caret line="7" column="54" selection-start-line="7" selection-start-column="54" selection-end-line="7" selection-end-column="54" />
+          <caret line="7" column="59" selection-start-line="7" selection-start-column="59" selection-end-line="7" selection-end-column="59" />
           <folding>
-            <element signature="e#116#117#0" expanded="true" />
-            <element signature="e#180#181#0" expanded="true" />
+            <element signature="e#135#136#0" expanded="true" />
+            <element signature="e#204#205#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/net/mindview/simple/List07.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06/lesson03/net/mindview/simple/List07.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="272">
-          <caret line="7" column="57" selection-start-line="7" selection-start-column="57" selection-end-line="7" selection-end-column="57" />
+          <caret line="7" column="62" selection-start-line="7" selection-start-column="62" selection-end-line="7" selection-end-column="62" />
           <folding>
-            <element signature="e#116#117#0" expanded="true" />
-            <element signature="e#180#181#0" expanded="true" />
+            <element signature="e#135#136#0" expanded="true" />
+            <element signature="e#204#205#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/net/mindview/simple/List08.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06/lesson03/net/mindview/simple/List08.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="272">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding>
+            <element signature="e#135#136#0" expanded="true" />
+            <element signature="e#204#205#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06/lesson03/net/mindview/simple/List01.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.15494792" vertical-offset="0" max-vertical-offset="768">
-          <caret line="7" column="57" selection-start-line="7" selection-start-column="57" selection-end-line="7" selection-end-column="57" />
+          <caret line="7" column="59" selection-start-line="7" selection-start-column="59" selection-end-line="7" selection-end-column="59" />
           <folding>
-            <element signature="e#116#117#0" expanded="true" />
-            <element signature="e#180#181#0" expanded="true" />
+            <element signature="e#135#136#0" expanded="true" />
+            <element signature="e#204#205#0" expanded="true" />
           </folding>
         </state>
       </provider>
