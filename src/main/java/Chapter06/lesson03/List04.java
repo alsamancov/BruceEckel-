@@ -1,4 +1,4 @@
-package net.mindview.simple;
+package Chapter06.lesson03;
 
 /**
  * Created by Алексей on 11/13/2015.

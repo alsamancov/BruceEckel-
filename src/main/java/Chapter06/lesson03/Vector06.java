@@ -1,10 +1,10 @@
-package net.mindview.simple;
+package Chapter06.lesson03;
 
 /**
  * Created by Алексей on 11/13/2015.
  */
 public class Vector06 {
     public Vector06(){
-        System.out.println("net.mindview.simple.Vector06");
+        System.out.println("Chapter06.lesson03.simpleVector06");
     }
 }
