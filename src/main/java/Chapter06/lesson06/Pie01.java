@@ -5,6 +5,6 @@ package Chapter06.lesson06;
  */
 public class Pie01 {
     void f(){
-        System.out.println("Pie.f()");
+        System.out.println("Pie01.f()");
     }
 }
