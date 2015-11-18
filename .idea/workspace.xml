@@ -2,10 +2,63 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c11404aa-dddc-48a6-8c31-93898d45847f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter06/lesson01/SingleImport14.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter06/lesson01/SingleImport15.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter06/lesson01/SingleImport16.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter06/lesson02/task01/QualifiedMyClass01.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter06/lesson02/task01/QualifiedMyClass02.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter06/lesson02/task01/QualifiedMyClass03.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter06/lesson02/task01/QualifiedMyClass04.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter06/lesson02/task01/QualifiedMyClass05.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter06/lesson02/task01/QualifiedMyClass06.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter06/lesson02/task01/QualifiedMyClass07.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter06/lesson02/task01/QualifiedMyClass08.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter06/lesson02/task02/ImportedMyClass01.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter06/lesson02/task02/ImportedMyClass02.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter06/lesson02/task02/ImportedMyClass03.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter06/lesson02/task02/ImportedMyClass04.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter06/lesson02/task02/ImportedMyClass05.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter06/lesson02/task02/ImportedMyClass06.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter06/lesson02/task02/ImportedMyClass07.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter06/lesson02/task02/ImportedMyClass08.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter06/lesson02/task02/QualifiedMyClass01.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter06/lesson02/task02/QualifiedMyClass02.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter06/lesson02/task02/QualifiedMyClass03.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter06/lesson02/task02/QualifiedMyClass04.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter06/lesson02/task02/QualifiedMyClass05.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter06/lesson02/task02/QualifiedMyClass06.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter06/lesson02/task02/QualifiedMyClass07.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter06/lesson02/task02/QualifiedMyClass08.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter06/lesson02/task02/mypackage/MyClass01.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter06/lesson02/task02/mypackage/MyClass02.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter06/lesson02/task02/mypackage/MyClass03.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter06/lesson02/task02/mypackage/MyClass04.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter06/lesson02/task02/mypackage/MyClass05.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter06/lesson02/task02/mypackage/MyClass06.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter06/lesson02/task02/mypackage/MyClass07.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter06/lesson02/task02/mypackage/MyClass08.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter06/lesson02/QualifiedMyClass01.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter06/lesson02/QualifiedMyClass02.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter06/lesson02/QualifiedMyClass03.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter06/lesson02/QualifiedMyClass04.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter06/lesson02/QualifiedMyClass05.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter06/lesson02/QualifiedMyClass06.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter06/lesson02/QualifiedMyClass07.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Chapter06/lesson02/QualifiedMyClass08.java" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/Chapter06/lesson02/ImportedMyClass01.java" afterPath="$PROJECT_DIR$/src/main/java/Chapter06/lesson02/task01/ImportedMyClass01.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/Chapter06/lesson02/ImportedMyClass02.java" afterPath="$PROJECT_DIR$/src/main/java/Chapter06/lesson02/task01/ImportedMyClass02.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/Chapter06/lesson02/ImportedMyClass03.java" afterPath="$PROJECT_DIR$/src/main/java/Chapter06/lesson02/task01/ImportedMyClass03.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/Chapter06/lesson02/ImportedMyClass04.java" afterPath="$PROJECT_DIR$/src/main/java/Chapter06/lesson02/task01/ImportedMyClass04.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/Chapter06/lesson02/ImportedMyClass05.java" afterPath="$PROJECT_DIR$/src/main/java/Chapter06/lesson02/task01/ImportedMyClass05.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/Chapter06/lesson02/ImportedMyClass06.java" afterPath="$PROJECT_DIR$/src/main/java/Chapter06/lesson02/task01/ImportedMyClass06.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/Chapter06/lesson02/ImportedMyClass07.java" afterPath="$PROJECT_DIR$/src/main/java/Chapter06/lesson02/task01/ImportedMyClass07.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/Chapter06/lesson02/ImportedMyClass08.java" afterPath="$PROJECT_DIR$/src/main/java/Chapter06/lesson02/task01/ImportedMyClass08.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/Chapter06/lesson02/mypackage/MyClass01.java" afterPath="$PROJECT_DIR$/src/main/java/Chapter06/lesson02/task01/mypackage/MyClass01.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/Chapter06/lesson02/mypackage/MyClass02.java" afterPath="$PROJECT_DIR$/src/main/java/Chapter06/lesson02/task01/mypackage/MyClass02.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/Chapter06/lesson02/mypackage/MyClass03.java" afterPath="$PROJECT_DIR$/src/main/java/Chapter06/lesson02/task01/mypackage/MyClass03.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/Chapter06/lesson02/mypackage/MyClass04.java" afterPath="$PROJECT_DIR$/src/main/java/Chapter06/lesson02/task01/mypackage/MyClass04.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/Chapter06/lesson02/mypackage/MyClass05.java" afterPath="$PROJECT_DIR$/src/main/java/Chapter06/lesson02/task01/mypackage/MyClass05.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/Chapter06/lesson02/mypackage/MyClass06.java" afterPath="$PROJECT_DIR$/src/main/java/Chapter06/lesson02/task01/mypackage/MyClass06.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/Chapter06/lesson02/mypackage/MyClass07.java" afterPath="$PROJECT_DIR$/src/main/java/Chapter06/lesson02/task01/mypackage/MyClass07.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/Chapter06/lesson02/mypackage/MyClass08.java" afterPath="$PROJECT_DIR$/src/main/java/Chapter06/lesson02/task01/mypackage/MyClass08.java" />
     </list>
     <ignored path="BruceEckel.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,73 +80,7 @@
     <favorites_list name="BruceEckel" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="SingleImport12.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06/lesson01/SingleImport12.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="9" column="51" selection-start-line="9" selection-start-column="51" selection-end-line="9" selection-end-column="51" />
-              <folding>
-                <element signature="e#174#175#0" expanded="true" />
-                <element signature="e#232#233#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SingleImport13.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06/lesson01/SingleImport13.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="9" column="51" selection-start-line="9" selection-start-column="51" selection-end-line="9" selection-end-column="51" />
-              <folding>
-                <element signature="e#174#175#0" expanded="true" />
-                <element signature="e#232#233#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SingleImport14.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06/lesson01/SingleImport14.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="9" column="51" selection-start-line="9" selection-start-column="51" selection-end-line="9" selection-end-column="51" />
-              <folding>
-                <element signature="e#174#175#0" expanded="true" />
-                <element signature="e#232#233#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SingleImport15.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06/lesson01/SingleImport15.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-              <folding>
-                <element signature="e#174#175#0" expanded="true" />
-                <element signature="e#232#233#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SingleImport16.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06/lesson01/SingleImport16.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.34615386">
-              <caret line="9" column="51" selection-start-line="9" selection-start-column="51" selection-end-line="9" selection-end-column="51" />
-              <folding>
-                <element signature="e#174#175#0" expanded="true" />
-                <element signature="e#232#233#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -125,24 +112,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/Chapter07/lesson04/Cartoon05.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Chapter07/lesson04/Cartoon06.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Chapter07/lesson04/Cartoon07.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Chapter07/lesson04/Cartoon08.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Chapter07/lesson04/Cartoon09.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Chapter07/lesson04/Cartoon10.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Chapter07/lesson04/Cartoon11.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Chapter07/lesson05/Chess.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Chapter07/lesson05/Chess01.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Chapter07/lesson05/Chess02.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Chapter07/lesson05/Chess03.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Chapter07/lesson05/Chess04.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Chapter07/lesson05/Chess05.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Chapter07/lesson05/Chess06.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Chapter07/lesson05/Chess07.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Chapter07/lesson05/Chess08.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Chapter07/lesson06/task01/SpaceShipControls.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Chapter07/lesson06/task01/SpaceShip.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter07/lesson06/task01/SpaceShipDelegation.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter07/lesson06/task02/SpaceShipControls.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter07/lesson06/task02/SpaceShip.java" />
@@ -176,6 +145,24 @@
         <option value="$PROJECT_DIR$/src/main/java/Chapter06/lesson01/SingleImport14.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter06/lesson01/SingleImport15.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter06/lesson01/SingleImport16.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chapter06/lesson02/task02/QualifiedMyClass01.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chapter06/lesson02/task02/ImportedMyClass01.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chapter06/lesson02/task02/QualifiedMyClass02.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chapter06/lesson02/task02/mypackage/ImportedMyClass02.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chapter06/lesson02/task02/ImportedMyClass02.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chapter06/lesson02/task02/QualifiedMyClass03.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chapter06/lesson02/task02/ImportedMyClass03.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chapter06/lesson02/task02/QualifiedMyClass04.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chapter06/lesson02/task02/mypackage/ImportedMyClass04.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chapter06/lesson02/task02/ImportedMyClass04.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chapter06/lesson02/task02/QualifiedMyClass05.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chapter06/lesson02/task02/ImportedMyClass05.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chapter06/lesson02/task02/QualifiedMyClass06.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chapter06/lesson02/task02/ImportedMyClass06.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chapter06/lesson02/task02/QualifiedMyClass07.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chapter06/lesson02/task02/ImportedMyClass07.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chapter06/lesson02/task02/QualifiedMyClass08.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chapter06/lesson02/task02/ImportedMyClass08.java" />
       </list>
     </option>
   </component>
@@ -315,7 +302,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="lesson01" />
+              <option name="myItemId" value="lesson02" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -898,13 +885,7 @@
       <workItem from="1447594152739" duration="757000" />
       <workItem from="1447670016071" duration="12578000" />
       <workItem from="1447762387169" duration="20169000" />
-      <workItem from="1447833795824" duration="23752000" />
-    </task>
-    <task id="LOCAL-00010" summary="add classes for lesson03">
-      <created>1447428425653</created>
-      <option name="number" value="00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1447428425653</updated>
+      <workItem from="1447833795824" duration="26839000" />
     </task>
     <task id="LOCAL-00011" summary="add classes for lesson05">
       <created>1447505353312</created>
@@ -1194,11 +1175,17 @@
       <option name="project" value="LOCAL" />
       <updated>1447868561972</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="add classes for ch06 les01">
+      <created>1447868789695</created>
+      <option name="number" value="00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1447868789695</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="80469000" />
+    <option name="totallyTimeSpent" value="83556000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="800" y="0" width="800" height="860" extended-state="0" />
@@ -1270,325 +1257,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06/lesson05/dessert/Cookie01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06/lesson06/Cake01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06/lesson08/task01/Lunch01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter07/lesson01/SprinklerSystem01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter07/lesson02/Bath01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter07/lesson03/Detergent01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter07/lesson04/Cartoon01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter07/lesson05/Chess01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="19" column="29" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
-          <folding>
-            <element signature="e#104#105#0" expanded="false" />
-            <element signature="e#160#161#0" expanded="false" />
-            <element signature="e#478#479#0" expanded="false" />
-            <element signature="e#519#520#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter07/lesson05/Chess02.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
-          <folding>
-            <element signature="e#104#105#0" expanded="false" />
-            <element signature="e#160#161#0" expanded="false" />
-            <element signature="e#478#479#0" expanded="false" />
-            <element signature="e#519#520#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter07/lesson05/Chess03.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="22" column="34" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
-          <folding>
-            <element signature="e#104#105#0" expanded="false" />
-            <element signature="e#160#161#0" expanded="false" />
-            <element signature="e#478#479#0" expanded="false" />
-            <element signature="e#519#520#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter07/lesson05/Chess04.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-          <folding>
-            <element signature="e#104#105#0" expanded="false" />
-            <element signature="e#160#161#0" expanded="false" />
-            <element signature="e#478#479#0" expanded="false" />
-            <element signature="e#519#520#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter07/lesson05/Chess05.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
-          <folding>
-            <element signature="e#104#105#0" expanded="false" />
-            <element signature="e#160#161#0" expanded="false" />
-            <element signature="e#478#479#0" expanded="false" />
-            <element signature="e#519#520#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter07/lesson05/Chess06.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-          <folding>
-            <element signature="e#104#105#0" expanded="false" />
-            <element signature="e#160#161#0" expanded="false" />
-            <element signature="e#478#479#0" expanded="false" />
-            <element signature="e#519#520#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter07/lesson05/Chess07.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="22" column="34" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
-          <folding>
-            <element signature="e#104#105#0" expanded="false" />
-            <element signature="e#160#161#0" expanded="false" />
-            <element signature="e#479#480#0" expanded="false" />
-            <element signature="e#520#521#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter07/lesson05/Chess08.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="22" column="34" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
-          <folding>
-            <element signature="e#104#105#0" expanded="false" />
-            <element signature="e#160#161#0" expanded="false" />
-            <element signature="e#478#479#0" expanded="false" />
-            <element signature="e#519#520#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter07/lesson06/task01/SpaceShipControls.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter07/lesson06/task01/SpaceShip.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding>
-            <element signature="e#189#190#0" expanded="false" />
-            <element signature="e#221#222#0" expanded="false" />
-            <element signature="e#251#252#0" expanded="false" />
-            <element signature="e#278#279#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter07/lesson06/task01/SpaceShipDelegation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="25" column="33" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
-          <folding>
-            <element signature="e#250#251#0" expanded="false" />
-            <element signature="e#282#283#0" expanded="false" />
-            <element signature="e#318#319#0" expanded="false" />
-            <element signature="e#357#358#0" expanded="false" />
-            <element signature="e#393#394#0" expanded="false" />
-            <element signature="e#432#433#0" expanded="false" />
-            <element signature="e#471#472#0" expanded="false" />
-            <element signature="e#513#514#0" expanded="false" />
-            <element signature="e#549#550#0" expanded="false" />
-            <element signature="e#588#589#0" expanded="false" />
-            <element signature="e#625#626#0" expanded="false" />
-            <element signature="e#665#666#0" expanded="false" />
-            <element signature="e#695#696#0" expanded="false" />
-            <element signature="e#732#733#0" expanded="false" />
-            <element signature="e#766#767#0" expanded="false" />
-            <element signature="e#803#804#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter07/lesson06/task02/SpaceShipControls.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter07/lesson06/task02/SpaceShip.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-          <folding>
-            <element signature="e#189#190#0" expanded="false" />
-            <element signature="e#221#222#0" expanded="false" />
-            <element signature="e#251#252#0" expanded="false" />
-            <element signature="e#278#279#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter07/lesson06/task02/SpaceShipDelegation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.65384614">
-          <caret line="35" column="31" selection-start-line="35" selection-start-column="31" selection-end-line="35" selection-end-column="31" />
-          <folding>
-            <element signature="e#249#250#0" expanded="false" />
-            <element signature="e#281#282#0" expanded="false" />
-            <element signature="e#317#318#0" expanded="false" />
-            <element signature="e#356#357#0" expanded="false" />
-            <element signature="e#392#393#0" expanded="false" />
-            <element signature="e#431#432#0" expanded="false" />
-            <element signature="e#470#471#0" expanded="false" />
-            <element signature="e#512#513#0" expanded="false" />
-            <element signature="e#548#549#0" expanded="false" />
-            <element signature="e#587#588#0" expanded="false" />
-            <element signature="e#624#625#0" expanded="false" />
-            <element signature="e#664#665#0" expanded="false" />
-            <element signature="e#694#695#0" expanded="false" />
-            <element signature="e#731#732#0" expanded="false" />
-            <element signature="e#765#766#0" expanded="false" />
-            <element signature="e#802#803#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter07/lesson06/task03/SpaceShipControls.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter07/lesson06/task03/SpaceShip.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
-          <folding>
-            <element signature="e#189#190#0" expanded="false" />
-            <element signature="e#221#222#0" expanded="false" />
-            <element signature="e#251#252#0" expanded="false" />
-            <element signature="e#278#279#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter07/lesson06/task03/SpaceShipDelegation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="43" column="31" selection-start-line="43" selection-start-column="31" selection-end-line="43" selection-end-column="31" />
-          <folding>
-            <element signature="e#261#262#0" expanded="false" />
-            <element signature="e#293#294#0" expanded="false" />
-            <element signature="e#329#330#0" expanded="false" />
-            <element signature="e#366#367#0" expanded="false" />
-            <element signature="e#407#408#0" expanded="false" />
-            <element signature="e#449#450#0" expanded="false" />
-            <element signature="e#487#488#0" expanded="false" />
-            <element signature="e#526#527#0" expanded="false" />
-            <element signature="e#558#559#0" expanded="false" />
-            <element signature="e#595#596#0" expanded="false" />
-            <element signature="e#633#634#0" expanded="false" />
-            <element signature="e#672#673#0" expanded="false" />
-            <element signature="e#711#712#0" expanded="false" />
-            <element signature="e#751#752#0" expanded="false" />
-            <element signature="e#789#790#0" expanded="false" />
-            <element signature="e#828#829#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter07/lesson06/task04/SpaceShipControls.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter07/lesson06/task04/SpaceShip.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
-          <folding>
-            <element signature="e#189#190#0" expanded="false" />
-            <element signature="e#221#222#0" expanded="false" />
-            <element signature="e#251#252#0" expanded="false" />
-            <element signature="e#278#279#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Chapter07/lesson06/task04/SpaceShipDelegation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1809,10 +1477,10 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
           <folding>
-            <element signature="e#189#190#0" expanded="true" />
-            <element signature="e#221#222#0" expanded="true" />
-            <element signature="e#251#252#0" expanded="true" />
-            <element signature="e#278#279#0" expanded="true" />
+            <element signature="e#189#190#0" expanded="false" />
+            <element signature="e#221#222#0" expanded="false" />
+            <element signature="e#251#252#0" expanded="false" />
+            <element signature="e#278#279#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1847,8 +1515,8 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
           <folding>
-            <element signature="e#131#132#0" expanded="true" />
-            <element signature="e#189#190#0" expanded="true" />
+            <element signature="e#131#132#0" expanded="false" />
+            <element signature="e#189#190#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1858,8 +1526,8 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
           <folding>
-            <element signature="e#174#175#0" expanded="true" />
-            <element signature="e#232#233#0" expanded="true" />
+            <element signature="e#174#175#0" expanded="false" />
+            <element signature="e#232#233#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1869,8 +1537,8 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="9" column="51" selection-start-line="9" selection-start-column="51" selection-end-line="9" selection-end-column="51" />
           <folding>
-            <element signature="e#174#175#0" expanded="true" />
-            <element signature="e#232#233#0" expanded="true" />
+            <element signature="e#174#175#0" expanded="false" />
+            <element signature="e#232#233#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1880,8 +1548,8 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="9" column="51" selection-start-line="9" selection-start-column="51" selection-end-line="9" selection-end-column="51" />
           <folding>
-            <element signature="e#174#175#0" expanded="true" />
-            <element signature="e#232#233#0" expanded="true" />
+            <element signature="e#174#175#0" expanded="false" />
+            <element signature="e#232#233#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1891,8 +1559,8 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="9" column="51" selection-start-line="9" selection-start-column="51" selection-end-line="9" selection-end-column="51" />
           <folding>
-            <element signature="e#174#175#0" expanded="true" />
-            <element signature="e#232#233#0" expanded="true" />
+            <element signature="e#174#175#0" expanded="false" />
+            <element signature="e#232#233#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1902,8 +1570,8 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="9" column="51" selection-start-line="9" selection-start-column="51" selection-end-line="9" selection-end-column="51" />
           <folding>
-            <element signature="e#174#175#0" expanded="true" />
-            <element signature="e#232#233#0" expanded="true" />
+            <element signature="e#174#175#0" expanded="false" />
+            <element signature="e#232#233#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1913,8 +1581,8 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="9" column="51" selection-start-line="9" selection-start-column="51" selection-end-line="9" selection-end-column="51" />
           <folding>
-            <element signature="e#174#175#0" expanded="true" />
-            <element signature="e#232#233#0" expanded="true" />
+            <element signature="e#174#175#0" expanded="false" />
+            <element signature="e#232#233#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1924,19 +1592,251 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding>
-            <element signature="e#174#175#0" expanded="true" />
-            <element signature="e#232#233#0" expanded="true" />
+            <element signature="e#174#175#0" expanded="false" />
+            <element signature="e#232#233#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06/lesson01/SingleImport16.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.34615386">
+        <state vertical-scroll-proportion="0.0">
           <caret line="9" column="51" selection-start-line="9" selection-start-column="51" selection-end-line="9" selection-end-column="51" />
           <folding>
-            <element signature="e#174#175#0" expanded="true" />
-            <element signature="e#232#233#0" expanded="true" />
+            <element signature="e#174#175#0" expanded="false" />
+            <element signature="e#232#233#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06/lesson02/task01/mypackage/MyClass01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06/lesson02/task02/mypackage/MyClass01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06/lesson02/task02/mypackage/MyClass02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06/lesson02/task02/mypackage/MyClass03.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06/lesson02/task02/mypackage/MyClass04.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06/lesson02/task02/mypackage/MyClass05.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06/lesson02/task02/mypackage/MyClass06.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06/lesson02/task02/mypackage/MyClass07.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06/lesson02/task02/mypackage/MyClass08.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06/lesson02/task02/QualifiedMyClass01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="68" selection-start-line="8" selection-start-column="68" selection-end-line="8" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06/lesson02/task02/QualifiedMyClass02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="68" selection-start-line="8" selection-start-column="68" selection-end-line="8" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06/lesson02/task02/ImportedMyClass01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+          <folding>
+            <element signature="e#210#211#0" expanded="true" />
+            <element signature="e#255#256#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06/lesson02/task02/ImportedMyClass02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.34615386">
+          <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+          <folding>
+            <element signature="e#210#211#0" expanded="true" />
+            <element signature="e#255#256#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06/lesson02/task01/QualifiedMyClass01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1923077">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06/lesson02/task02/QualifiedMyClass03.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="68" selection-start-line="8" selection-start-column="68" selection-end-line="8" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06/lesson02/task02/ImportedMyClass03.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="53" selection-start-line="2" selection-start-column="53" selection-end-line="2" selection-end-column="53" />
+          <folding>
+            <element signature="e#210#211#0" expanded="true" />
+            <element signature="e#255#256#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06/lesson02/task02/QualifiedMyClass04.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="68" selection-start-line="8" selection-start-column="68" selection-end-line="8" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06/lesson02/task02/ImportedMyClass08.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.34615386">
+          <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+          <folding>
+            <element signature="e#202#203#0" expanded="true" />
+            <element signature="e#247#248#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06/lesson02/task02/QualifiedMyClass08.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.30769232">
+          <caret line="8" column="68" selection-start-line="8" selection-start-column="68" selection-end-line="8" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06/lesson02/task02/ImportedMyClass07.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.34615386">
+          <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+          <folding>
+            <element signature="e#202#203#0" expanded="true" />
+            <element signature="e#247#248#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06/lesson02/task02/QualifiedMyClass07.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.30769232">
+          <caret line="8" column="68" selection-start-line="8" selection-start-column="68" selection-end-line="8" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06/lesson02/task02/ImportedMyClass06.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.34615386">
+          <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+          <folding>
+            <element signature="e#202#203#0" expanded="true" />
+            <element signature="e#247#248#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06/lesson02/task02/QualifiedMyClass06.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.30769232">
+          <caret line="8" column="68" selection-start-line="8" selection-start-column="68" selection-end-line="8" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06/lesson02/task02/ImportedMyClass05.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.34615386">
+          <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+          <folding>
+            <element signature="e#202#203#0" expanded="true" />
+            <element signature="e#247#248#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06/lesson02/task02/QualifiedMyClass05.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.30769232">
+          <caret line="8" column="68" selection-start-line="8" selection-start-column="68" selection-end-line="8" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06/lesson02/task02/ImportedMyClass04.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.46153846">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding>
+            <element signature="e#210#211#0" expanded="true" />
+            <element signature="e#255#256#0" expanded="true" />
           </folding>
         </state>
       </provider>
