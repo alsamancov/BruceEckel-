@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c11404aa-dddc-48a6-8c31-93898d45847f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter06/lesson01/SingleImport13.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter06/lesson01/SingleImport14.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter06/lesson01/SingleImport15.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter06/lesson01/SingleImport16.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="BruceEckel.iws" />
@@ -39,8 +41,47 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SingleImport13.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SingleImport13.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06/lesson01/SingleImport13.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="9" column="51" selection-start-line="9" selection-start-column="51" selection-end-line="9" selection-end-column="51" />
+              <folding>
+                <element signature="e#174#175#0" expanded="true" />
+                <element signature="e#232#233#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SingleImport14.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06/lesson01/SingleImport14.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="9" column="51" selection-start-line="9" selection-start-column="51" selection-end-line="9" selection-end-column="51" />
+              <folding>
+                <element signature="e#174#175#0" expanded="true" />
+                <element signature="e#232#233#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SingleImport15.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06/lesson01/SingleImport15.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+              <folding>
+                <element signature="e#174#175#0" expanded="true" />
+                <element signature="e#232#233#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SingleImport16.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06/lesson01/SingleImport16.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.34615386">
               <caret line="9" column="51" selection-start-line="9" selection-start-column="51" selection-end-line="9" selection-end-column="51" />
@@ -84,9 +125,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/Chapter07/lesson04/Cartoon02.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Chapter07/lesson04/Cartoon03.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Chapter07/lesson04/Cartoon04.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter07/lesson04/Cartoon05.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter07/lesson04/Cartoon06.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter07/lesson04/Cartoon07.java" />
@@ -135,6 +173,9 @@
         <option value="$PROJECT_DIR$/src/main/java/Chapter06/lesson01/SingleImport11.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter06/lesson01/SingleImport12.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter06/lesson01/SingleImport13.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chapter06/lesson01/SingleImport14.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chapter06/lesson01/SingleImport15.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chapter06/lesson01/SingleImport16.java" />
       </list>
     </option>
   </component>
@@ -857,13 +898,7 @@
       <workItem from="1447594152739" duration="757000" />
       <workItem from="1447670016071" duration="12578000" />
       <workItem from="1447762387169" duration="20169000" />
-      <workItem from="1447833795824" duration="23525000" />
-    </task>
-    <task id="LOCAL-00009" summary="add classes for lesson03">
-      <created>1447427412694</created>
-      <option name="number" value="00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1447427412694</updated>
+      <workItem from="1447833795824" duration="23752000" />
     </task>
     <task id="LOCAL-00010" summary="add classes for lesson03">
       <created>1447428425653</created>
@@ -1153,11 +1188,17 @@
       <option name="project" value="LOCAL" />
       <updated>1447868481342</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="add classes for ch06 les01">
+      <created>1447868561972</created>
+      <option name="number" value="00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1447868561972</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="80242000" />
+    <option name="totallyTimeSpent" value="80469000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="800" y="0" width="800" height="860" extended-state="0" />
@@ -1229,39 +1270,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter07/lesson04/Cartoon11.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="20" column="38" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
-          <folding>
-            <element signature="e#97#98#0" expanded="false" />
-            <element signature="e#152#153#0" expanded="false" />
-            <element signature="e#202#203#0" expanded="false" />
-            <element signature="e#261#262#0" expanded="false" />
-            <element signature="e#322#323#0" expanded="false" />
-            <element signature="e#381#382#0" expanded="false" />
-            <element signature="e#425#426#0" expanded="false" />
-            <element signature="e#470#471#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06/lesson03/net/mindview/simple/LibTest01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06/lesson04/Print01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06/lesson05/dessert/Cookie01.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1814,22 +1822,22 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="36" column="31" selection-start-line="36" selection-start-column="31" selection-end-line="36" selection-end-column="31" />
           <folding>
-            <element signature="e#261#262#0" expanded="true" />
-            <element signature="e#293#294#0" expanded="true" />
-            <element signature="e#329#330#0" expanded="true" />
-            <element signature="e#368#369#0" expanded="true" />
-            <element signature="e#404#405#0" expanded="true" />
-            <element signature="e#443#444#0" expanded="true" />
-            <element signature="e#482#483#0" expanded="true" />
-            <element signature="e#524#525#0" expanded="true" />
-            <element signature="e#560#561#0" expanded="true" />
-            <element signature="e#599#600#0" expanded="true" />
-            <element signature="e#636#637#0" expanded="true" />
-            <element signature="e#676#677#0" expanded="true" />
-            <element signature="e#706#707#0" expanded="true" />
-            <element signature="e#743#744#0" expanded="true" />
-            <element signature="e#777#778#0" expanded="true" />
-            <element signature="e#814#815#0" expanded="true" />
+            <element signature="e#261#262#0" expanded="false" />
+            <element signature="e#293#294#0" expanded="false" />
+            <element signature="e#329#330#0" expanded="false" />
+            <element signature="e#368#369#0" expanded="false" />
+            <element signature="e#404#405#0" expanded="false" />
+            <element signature="e#443#444#0" expanded="false" />
+            <element signature="e#482#483#0" expanded="false" />
+            <element signature="e#524#525#0" expanded="false" />
+            <element signature="e#560#561#0" expanded="false" />
+            <element signature="e#599#600#0" expanded="false" />
+            <element signature="e#636#637#0" expanded="false" />
+            <element signature="e#676#677#0" expanded="false" />
+            <element signature="e#706#707#0" expanded="false" />
+            <element signature="e#743#744#0" expanded="false" />
+            <element signature="e#777#778#0" expanded="false" />
+            <element signature="e#814#815#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1890,6 +1898,39 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06/lesson01/SingleImport13.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="51" selection-start-line="9" selection-start-column="51" selection-end-line="9" selection-end-column="51" />
+          <folding>
+            <element signature="e#174#175#0" expanded="true" />
+            <element signature="e#232#233#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06/lesson01/SingleImport14.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="51" selection-start-line="9" selection-start-column="51" selection-end-line="9" selection-end-column="51" />
+          <folding>
+            <element signature="e#174#175#0" expanded="true" />
+            <element signature="e#232#233#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06/lesson01/SingleImport15.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding>
+            <element signature="e#174#175#0" expanded="true" />
+            <element signature="e#232#233#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06/lesson01/SingleImport16.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.34615386">
           <caret line="9" column="51" selection-start-line="9" selection-start-column="51" selection-end-line="9" selection-end-column="51" />
