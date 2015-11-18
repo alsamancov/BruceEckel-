@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c11404aa-dddc-48a6-8c31-93898d45847f" name="Default" comment="add classes for ch07 les06">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter07/lesson06/task09/SpaceShip.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter07/lesson06/task09/SpaceShipControls.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter07/lesson06/task09/SpaceShipDelegation.java" />
+    <list default="true" id="c11404aa-dddc-48a6-8c31-93898d45847f" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="BruceEckel.iws" />
@@ -919,13 +916,7 @@
       <workItem from="1447594152739" duration="757000" />
       <workItem from="1447670016071" duration="12578000" />
       <workItem from="1447762387169" duration="20169000" />
-      <workItem from="1447833795824" duration="21375000" />
-    </task>
-    <task id="LOCAL-00005" summary="second commit&#10;">
-      <created>1447255545889</created>
-      <option name="number" value="00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1447255545889</updated>
+      <workItem from="1447833795824" duration="21384000" />
     </task>
     <task id="LOCAL-00006" summary="second commit&#10;">
       <created>1447255556156</created>
@@ -1215,11 +1206,17 @@
       <option name="project" value="LOCAL" />
       <updated>1447858343714</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="add classes for ch07 les06">
+      <created>1447860489971</created>
+      <option name="number" value="00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1447860489971</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="78092000" />
+    <option name="totallyTimeSpent" value="78101000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="800" y="0" width="800" height="860" extended-state="0" />
