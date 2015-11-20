@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c11404aa-dddc-48a6-8c31-93898d45847f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter07/lesson08/CADSystem03.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter07/lesson08/CADSystem04.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="BruceEckel.iws" />
@@ -79,16 +79,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CADSystem03.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CADSystem03.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Chapter07/lesson08/CADSystem03.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-1.8076923">
+            <state vertical-scroll-proportion="0.0">
               <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
               <folding>
                 <element signature="e#106#107#0" expanded="true" />
                 <element signature="e#163#164#0" expanded="true" />
                 <element signature="e#183#184#0" expanded="true" />
                 <element signature="e#236#237#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CADSystem04.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter07/lesson08/CADSystem04.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.15384616">
+              <caret line="61" column="2" selection-start-line="61" selection-start-column="2" selection-end-line="61" selection-end-column="2" />
+              <folding>
+                <element signature="e#106#107#0" expanded="true" />
+                <element signature="e#163#164#0" expanded="true" />
+                <element signature="e#183#184#0" expanded="true" />
+                <element signature="e#240#241#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -127,7 +142,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/Chapter06/lesson02/task02/QualifiedMyClass06.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter06/lesson02/task02/ImportedMyClass06.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter06/lesson02/task02/QualifiedMyClass07.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter06/lesson02/task02/ImportedMyClass07.java" />
@@ -178,6 +192,7 @@
         <option value="$PROJECT_DIR$/src/main/java/Chapter07/lesson08/CADSystem01.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter07/lesson08/CADSystem02.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter07/lesson08/CADSystem03.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chapter07/lesson08/CADSystem04.java" />
       </list>
     </option>
   </component>
@@ -273,7 +288,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="CADSystem03.java" />
+              <option name="myItemId" value="CADSystem04.java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -382,27 +397,7 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.CADSystem03">
-    <configuration default="false" name="PlaceSetting07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="Chapter07.lesson07.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="Chapter07.lesson07.PlaceSetting07" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="BruceEckel" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.CADSystem04">
     <configuration default="false" name="PlaceSetting08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -471,6 +466,26 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="Chapter07.lesson08.CADSystem03" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="BruceEckel" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="CADSystem04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Chapter07.lesson08.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Chapter07.lesson08.CADSystem04" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -895,19 +910,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.PlaceSetting07" />
-      <item index="1" class="java.lang.String" itemvalue="Application.PlaceSetting08" />
-      <item index="2" class="java.lang.String" itemvalue="Application.CADSystem01" />
-      <item index="3" class="java.lang.String" itemvalue="Application.CADSystem02" />
-      <item index="4" class="java.lang.String" itemvalue="Application.CADSystem03" />
+      <item index="0" class="java.lang.String" itemvalue="Application.PlaceSetting08" />
+      <item index="1" class="java.lang.String" itemvalue="Application.CADSystem01" />
+      <item index="2" class="java.lang.String" itemvalue="Application.CADSystem02" />
+      <item index="3" class="java.lang.String" itemvalue="Application.CADSystem03" />
+      <item index="4" class="java.lang.String" itemvalue="Application.CADSystem04" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.CADSystem03" />
-        <item index="1" class="java.lang.String" itemvalue="Application.CADSystem02" />
-        <item index="2" class="java.lang.String" itemvalue="Application.CADSystem01" />
-        <item index="3" class="java.lang.String" itemvalue="Application.PlaceSetting08" />
-        <item index="4" class="java.lang.String" itemvalue="Application.PlaceSetting07" />
+        <item index="0" class="java.lang.String" itemvalue="Application.CADSystem04" />
+        <item index="1" class="java.lang.String" itemvalue="Application.CADSystem03" />
+        <item index="2" class="java.lang.String" itemvalue="Application.CADSystem02" />
+        <item index="3" class="java.lang.String" itemvalue="Application.CADSystem01" />
+        <item index="4" class="java.lang.String" itemvalue="Application.PlaceSetting08" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -936,13 +951,7 @@
       <workItem from="1447762387169" duration="20169000" />
       <workItem from="1447833795824" duration="29696000" />
       <workItem from="1447914235467" duration="19392000" />
-      <workItem from="1448016570975" duration="7879000" />
-    </task>
-    <task id="LOCAL-00031" summary="add classes for ch07 les04">
-      <created>1447835202700</created>
-      <option name="number" value="00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1447835202700</updated>
+      <workItem from="1448016570975" duration="10513000" />
     </task>
     <task id="LOCAL-00032" summary="add classes for ch07 les04">
       <created>1447835837454</created>
@@ -1232,11 +1241,17 @@
       <option name="project" value="LOCAL" />
       <updated>1448023064017</updated>
     </task>
-    <option name="localTasksCounter" value="80" />
+    <task id="LOCAL-00080" summary="add classes for ch07 les08">
+      <created>1448027945931</created>
+      <option name="number" value="00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1448027945931</updated>
+    </task>
+    <option name="localTasksCounter" value="81" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="113684000" />
+    <option name="totallyTimeSpent" value="116318000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="800" y="0" width="800" height="860" extended-state="0" />
@@ -1312,13 +1327,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06/lesson02/task02/ImportedMyClass07.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.34615386">
-          <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06/lesson02/task02/QualifiedMyClass07.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.30769232">
@@ -1681,13 +1689,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Chapter07/lesson08/CADSystem03.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.8076923">
+        <state vertical-scroll-proportion="0.0">
           <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
           <folding>
             <element signature="e#106#107#0" expanded="true" />
             <element signature="e#163#164#0" expanded="true" />
             <element signature="e#183#184#0" expanded="true" />
             <element signature="e#236#237#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter07/lesson08/CADSystem04.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.15384616">
+          <caret line="61" column="2" selection-start-line="61" selection-start-column="2" selection-end-line="61" selection-end-column="2" />
+          <folding>
+            <element signature="e#106#107#0" expanded="true" />
+            <element signature="e#163#164#0" expanded="true" />
+            <element signature="e#183#184#0" expanded="true" />
+            <element signature="e#240#241#0" expanded="true" />
           </folding>
         </state>
       </provider>
