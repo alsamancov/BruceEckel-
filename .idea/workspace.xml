@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c11404aa-dddc-48a6-8c31-93898d45847f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter07/lesson10/part01/Car05.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter07/lesson10/part01/Car08.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="BruceEckel.iws" />
@@ -36,10 +36,40 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Car05.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Car05.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Chapter07/lesson10/part01/Car05.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7307692">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="36" column="37" selection-start-line="36" selection-start-column="37" selection-end-line="36" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Car06.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter07/lesson10/part01/Car06.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="36" column="37" selection-start-line="36" selection-start-column="37" selection-end-line="36" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Car07.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter07/lesson10/part01/Car07.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="36" column="37" selection-start-line="36" selection-start-column="37" selection-end-line="36" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Car08.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter07/lesson10/part01/Car08.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.9230769">
               <caret line="36" column="37" selection-start-line="36" selection-start-column="37" selection-end-line="36" selection-end-column="37" />
               <folding />
             </state>
@@ -79,9 +109,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/Chapter06/lesson03/net/mindview/simple02/Vector06.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Chapter06/lesson03/net/mindview/simple02/List06.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Chapter06/lesson03/net/mindview/simple02/LibTest06.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter06/lesson03/net/mindview/simple02/Vector07.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter06/lesson03/net/mindview/simple02/List07.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter06/lesson03/net/mindview/simple02/LitTest07.java" />
@@ -130,6 +157,9 @@
         <option value="$PROJECT_DIR$/src/main/java/Chapter07/lesson10/part01/Car03.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter07/lesson10/part01/Car04.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter07/lesson10/part01/Car05.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chapter07/lesson10/part01/Car06.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chapter07/lesson10/part01/Car07.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chapter07/lesson10/part01/Car08.java" />
       </list>
     </option>
   </component>
@@ -222,78 +252,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="lesson10" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="part01" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Car05.java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="BruceEckel" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="BruceEckel" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Chapter07" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lesson10" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="part01" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="BruceEckel" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="BruceEckel" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Chapter07" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lesson09" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -926,25 +884,7 @@
       <workItem from="1447762387169" duration="20169000" />
       <workItem from="1447833795824" duration="29696000" />
       <workItem from="1447914235467" duration="19392000" />
-      <workItem from="1448016570975" duration="27342000" />
-    </task>
-    <task id="LOCAL-00049" summary="add classes for ch07 les06">
-      <created>1447853835732</created>
-      <option name="number" value="00049" />
-      <option name="project" value="LOCAL" />
-      <updated>1447853835732</updated>
-    </task>
-    <task id="LOCAL-00050" summary="add classes for ch07 les06">
-      <created>1447854688399</created>
-      <option name="number" value="00050" />
-      <option name="project" value="LOCAL" />
-      <updated>1447854688501</updated>
-    </task>
-    <task id="LOCAL-00051" summary="add classes for ch07 les06">
-      <created>1447855912177</created>
-      <option name="number" value="00051" />
-      <option name="project" value="LOCAL" />
-      <updated>1447855912177</updated>
+      <workItem from="1448016570975" duration="29486000" />
     </task>
     <task id="LOCAL-00052" summary="add classes for ch07 les06">
       <created>1447856610482</created>
@@ -1222,11 +1162,29 @@
       <option name="project" value="LOCAL" />
       <updated>1448053910353</updated>
     </task>
-    <option name="localTasksCounter" value="98" />
+    <task id="LOCAL-00098" summary="add classes for ch07 les10">
+      <created>1448057414186</created>
+      <option name="number" value="00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1448057414186</updated>
+    </task>
+    <task id="LOCAL-00099" summary="add classes for ch07 les10">
+      <created>1448057863037</created>
+      <option name="number" value="00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1448057863037</updated>
+    </task>
+    <task id="LOCAL-00100" summary="add classes for ch07 les10">
+      <created>1448058237838</created>
+      <option name="number" value="00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1448058237838</updated>
+    </task>
+    <option name="localTasksCounter" value="101" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="133147000" />
+    <option name="totallyTimeSpent" value="135291000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="800" y="0" width="800" height="860" extended-state="0" />
@@ -1304,27 +1262,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06/lesson03/net/mindview/simple02/Vector05.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06/lesson03/net/mindview/simple02/List05.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06/lesson03/net/mindview/simple02/LibTest05.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06/lesson03/net/mindview/simple02/Vector06.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1739,7 +1676,31 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Chapter07/lesson10/part01/Car05.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7307692">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="36" column="37" selection-start-line="36" selection-start-column="37" selection-end-line="36" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter07/lesson10/part01/Car06.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="36" column="37" selection-start-line="36" selection-start-column="37" selection-end-line="36" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter07/lesson10/part01/Car07.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="36" column="37" selection-start-line="36" selection-start-column="37" selection-end-line="36" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter07/lesson10/part01/Car08.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.9230769">
           <caret line="36" column="37" selection-start-line="36" selection-start-column="37" selection-end-line="36" selection-end-column="37" />
           <folding />
         </state>
