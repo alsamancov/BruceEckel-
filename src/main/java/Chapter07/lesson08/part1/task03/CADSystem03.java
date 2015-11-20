@@ -1,4 +1,4 @@
-package Chapter07.lesson08;
+package Chapter07.lesson08.part1.task03;
 
 /**
  * Created by Alexey on 11/20/2015.
