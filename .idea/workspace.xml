@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c11404aa-dddc-48a6-8c31-93898d45847f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter07/lesson10/part01/Car04.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter07/lesson10/part01/Car05.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="BruceEckel.iws" />
@@ -26,11 +26,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Car04.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Car04.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Chapter07/lesson10/part01/Car04.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7307692">
+            <state vertical-scroll-proportion="0.0">
               <caret line="37" column="36" selection-start-line="37" selection-start-column="36" selection-end-line="37" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Car05.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter07/lesson10/part01/Car05.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.7307692">
+              <caret line="36" column="37" selection-start-line="36" selection-start-column="37" selection-end-line="36" selection-end-column="37" />
               <folding />
             </state>
           </provider>
@@ -69,7 +79,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/Chapter06/lesson03/net/mindview/simple02/LibTest05.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter06/lesson03/net/mindview/simple02/Vector06.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter06/lesson03/net/mindview/simple02/List06.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter06/lesson03/net/mindview/simple02/LibTest06.java" />
@@ -120,6 +129,7 @@
         <option value="$PROJECT_DIR$/src/main/java/Chapter07/lesson10/part01/Car02.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter07/lesson10/part01/Car03.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter07/lesson10/part01/Car04.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chapter07/lesson10/part01/Car05.java" />
       </list>
     </option>
   </component>
@@ -183,6 +193,44 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="BruceEckel" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BruceEckel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BruceEckel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Chapter07" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lesson10" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="part01" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Car05.java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -878,13 +926,7 @@
       <workItem from="1447762387169" duration="20169000" />
       <workItem from="1447833795824" duration="29696000" />
       <workItem from="1447914235467" duration="19392000" />
-      <workItem from="1448016570975" duration="26348000" />
-    </task>
-    <task id="LOCAL-00048" summary="add classes for ch07 les06">
-      <created>1447852964534</created>
-      <option name="number" value="00048" />
-      <option name="project" value="LOCAL" />
-      <updated>1447852964534</updated>
+      <workItem from="1448016570975" duration="27342000" />
     </task>
     <task id="LOCAL-00049" summary="add classes for ch07 les06">
       <created>1447853835732</created>
@@ -1174,11 +1216,17 @@
       <option name="project" value="LOCAL" />
       <updated>1448053361833</updated>
     </task>
-    <option name="localTasksCounter" value="97" />
+    <task id="LOCAL-00097" summary="add classes for ch07 les10">
+      <created>1448053910347</created>
+      <option name="number" value="00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1448053910353</updated>
+    </task>
+    <option name="localTasksCounter" value="98" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="132153000" />
+    <option name="totallyTimeSpent" value="133147000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="800" y="0" width="800" height="860" extended-state="0" />
@@ -1256,13 +1304,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06/lesson03/net/mindview/simple02/LibTest04.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06/lesson03/net/mindview/simple02/Vector05.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1544,10 +1585,10 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="75" column="5" selection-start-line="75" selection-start-column="5" selection-end-line="75" selection-end-column="5" />
           <folding>
-            <element signature="e#119#120#0" expanded="true" />
-            <element signature="e#176#177#0" expanded="true" />
-            <element signature="e#196#197#0" expanded="true" />
-            <element signature="e#249#250#0" expanded="true" />
+            <element signature="e#119#120#0" expanded="false" />
+            <element signature="e#176#177#0" expanded="false" />
+            <element signature="e#196#197#0" expanded="false" />
+            <element signature="e#249#250#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1557,10 +1598,10 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="73" column="24" selection-start-line="73" selection-start-column="24" selection-end-line="73" selection-end-column="24" />
           <folding>
-            <element signature="e#119#120#0" expanded="true" />
-            <element signature="e#176#177#0" expanded="true" />
-            <element signature="e#196#197#0" expanded="true" />
-            <element signature="e#249#250#0" expanded="true" />
+            <element signature="e#119#120#0" expanded="false" />
+            <element signature="e#176#177#0" expanded="false" />
+            <element signature="e#196#197#0" expanded="false" />
+            <element signature="e#249#250#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1581,8 +1622,8 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="28" column="9" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
           <folding>
-            <element signature="e#355#356#0" expanded="true" />
-            <element signature="e#408#409#0" expanded="true" />
+            <element signature="e#355#356#0" expanded="false" />
+            <element signature="e#408#409#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1592,8 +1633,8 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="27" column="32" selection-start-line="27" selection-start-column="32" selection-end-line="27" selection-end-column="32" />
           <folding>
-            <element signature="e#354#355#0" expanded="true" />
-            <element signature="e#405#406#0" expanded="true" />
+            <element signature="e#354#355#0" expanded="false" />
+            <element signature="e#405#406#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1603,8 +1644,8 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="28" column="32" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
           <folding>
-            <element signature="e#355#356#0" expanded="true" />
-            <element signature="e#406#407#0" expanded="true" />
+            <element signature="e#355#356#0" expanded="false" />
+            <element signature="e#406#407#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1614,8 +1655,8 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="28" column="32" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
           <folding>
-            <element signature="e#355#356#0" expanded="true" />
-            <element signature="e#406#407#0" expanded="true" />
+            <element signature="e#355#356#0" expanded="false" />
+            <element signature="e#406#407#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1625,8 +1666,8 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="20" column="25" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
           <folding>
-            <element signature="e#356#357#0" expanded="true" />
-            <element signature="e#407#408#0" expanded="true" />
+            <element signature="e#356#357#0" expanded="false" />
+            <element signature="e#407#408#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1636,8 +1677,8 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="28" column="32" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
           <folding>
-            <element signature="e#355#356#0" expanded="true" />
-            <element signature="e#406#407#0" expanded="true" />
+            <element signature="e#355#356#0" expanded="false" />
+            <element signature="e#406#407#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1647,8 +1688,8 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="29" column="32" selection-start-line="29" selection-start-column="32" selection-end-line="29" selection-end-column="32" />
           <folding>
-            <element signature="e#356#357#0" expanded="true" />
-            <element signature="e#407#408#0" expanded="true" />
+            <element signature="e#356#357#0" expanded="false" />
+            <element signature="e#407#408#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1658,8 +1699,8 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding>
-            <element signature="e#153#154#0" expanded="true" />
-            <element signature="e#204#205#0" expanded="true" />
+            <element signature="e#153#154#0" expanded="false" />
+            <element signature="e#204#205#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1690,8 +1731,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Chapter07/lesson10/part01/Car04.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7307692">
+        <state vertical-scroll-proportion="0.0">
           <caret line="37" column="36" selection-start-line="37" selection-start-column="36" selection-end-line="37" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter07/lesson10/part01/Car05.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7307692">
+          <caret line="36" column="37" selection-start-line="36" selection-start-column="37" selection-end-line="36" selection-end-column="37" />
           <folding />
         </state>
       </provider>
