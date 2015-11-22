@@ -1,25 +1,25 @@
-package Chapter06.lesson08.task12;
+package Chapter06.lesson08.part01.task01;
 
 /**
- * Created by Alexey on 11/16/2015.
+ * Created by Alex on 15.11.15.
  */
-class Soup1{
+class Soup1 {
     private Soup1(){}
     public static Soup1 makeSoup(){
         return new Soup1();
     }
 }
-class Soup2{
-    private Soup2(){
 
-    }
+class Soup2{
+    private Soup2(){}
     private static Soup2 ps1 = new Soup2();
     public static Soup2 access(){
         return ps1;
     }
     public void f(){}
 }
-public class Lunch {
+
+public class Lunch01 {
     void testPrivate(){
         //Soup1 soup = new Soup1();
     }

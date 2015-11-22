@@ -1,9 +1,8 @@
-package Chapter06.lesson08.task08;
+package Chapter06.lesson08.part01.task03;
 
 /**
- * Created by Alexey on 11/16/2015.
+ * Created by Alex on 15.11.15.
  */
-
 class Soup1{
     private Soup1(){}
     public static Soup1 makeSoup(){

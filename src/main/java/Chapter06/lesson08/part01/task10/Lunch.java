@@ -1,8 +1,9 @@
-package Chapter06.lesson08.task03;
+package Chapter06.lesson08.part01.task10;
 
 /**
- * Created by Alex on 15.11.15.
+ * Created by Alexey on 11/16/2015.
  */
+
 class Soup1{
     private Soup1(){}
     public static Soup1 makeSoup(){
@@ -10,7 +11,7 @@ class Soup1{
     }
 }
 
-class Soup2{
+class Soup2 {
     private Soup2(){}
     private static Soup2 ps1 = new Soup2();
     public static Soup2 access(){
