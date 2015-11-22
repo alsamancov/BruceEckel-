@@ -1,11 +1,11 @@
-package Chapter06.lesson04;
+package Chapter06.lesson04.part01;
 
 import java.io.PrintStream;
 
 /**
  * Created by Алексей on 11/13/2015.
  */
-public class Print05 {
+public class Print02 {
     public static void print(Object obj){
         System.out.println(obj);
     }
@@ -19,7 +19,7 @@ public class Print05 {
     }
 
     public static PrintStream
-    printf(String format, Object...args){
+    printf(String format, Object... args){
         return System.out.printf(format, args);
     }
 }

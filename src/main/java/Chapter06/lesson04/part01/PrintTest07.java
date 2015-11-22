@@ -1,6 +1,6 @@
-package Chapter06.lesson04;
+package Chapter06.lesson04.part01;
 
-import static Chapter06.lesson04.Print07.*;
+import static Chapter06.lesson04.part01.Print07.*;
 
 /**
  * Created by Alexey on 11/14/2015.

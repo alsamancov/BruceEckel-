@@ -1,11 +1,11 @@
-package Chapter06.lesson04;
+package Chapter06.lesson04.part01;
 
 import java.io.PrintStream;
 
 /**
  * Created by Алексей on 11/13/2015.
  */
-public class Print06 {
+public class Print03 {
     public static void print(Object obj){
         System.out.println(obj);
     }
