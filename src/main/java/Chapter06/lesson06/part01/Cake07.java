@@ -1,11 +1,11 @@
-package Chapter06.lesson06;
+package Chapter06.lesson06.part01;
 
 /**
  * Created by Alex on 15.11.15.
  */
-public class Cake04 {
+public class Cake07 {
     public static void main(String[] args){
-        Pie04 x = new Pie04();
+        Pie07 x = new Pie07();
         x.f();
     }
 }

@@ -1,7 +1,7 @@
-package Chapter06.lesson06;
+package Chapter06.lesson06.part02;
 
 /**
- * Created by Alex on 14.11.15.
+ * Created by Alexey on 11/22/2015.
  */
 public class Cake01 {
     public static void main(String[] args){
