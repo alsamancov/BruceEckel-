@@ -5,7 +5,7 @@ import java.io.PrintStream;
 /**
  * Created by Alexey on 11/22/2015.
  */
-public class Print06 {
+public class Print07 {
     public static void print(Object obj){
         System.out.println(obj);
     }
