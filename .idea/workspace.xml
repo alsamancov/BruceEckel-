@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c11404aa-dddc-48a6-8c31-93898d45847f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter06/lesson04/part02/Print04.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter06/lesson04/part02/PrintTest04.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter06/lesson04/part02/Print05.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter06/lesson04/part02/PrintTest05.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="BruceEckel.iws" />
@@ -27,25 +27,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Print01.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06/lesson04/part02/Print01.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="19" column="47" selection-start-line="19" selection-start-column="47" selection-end-line="19" selection-end-column="47" />
-              <folding>
-                <element signature="e#172#173#0" expanded="true" />
-                <element signature="e#211#212#0" expanded="true" />
-                <element signature="e#243#244#0" expanded="true" />
-                <element signature="e#279#280#0" expanded="true" />
-                <element signature="e#323#324#0" expanded="true" />
-                <element signature="e#362#363#0" expanded="true" />
-                <element signature="e#435#436#0" expanded="true" />
-                <element signature="e#489#490#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="PrintTest01.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06/lesson04/part02/PrintTest01.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -133,8 +114,37 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PrintTest04.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="PrintTest04.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06/lesson04/part02/PrintTest04.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Print05.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06/lesson04/part02/Print05.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="19" column="47" selection-start-line="19" selection-start-column="47" selection-end-line="19" selection-end-column="47" />
+              <folding>
+                <element signature="e#172#173#0" expanded="true" />
+                <element signature="e#211#212#0" expanded="true" />
+                <element signature="e#243#244#0" expanded="true" />
+                <element signature="e#279#280#0" expanded="true" />
+                <element signature="e#323#324#0" expanded="true" />
+                <element signature="e#360#361#0" expanded="true" />
+                <element signature="e#433#434#0" expanded="true" />
+                <element signature="e#487#488#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PrintTest05.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06/lesson04/part02/PrintTest05.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.46153846">
               <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
@@ -186,8 +196,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/Chapter06/lesson03/net/mindview/simple02/Vector10.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Chapter06/lesson03/net/mindview/simple02/List10.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter06/lesson03/net/mindview/simple02/LibTest10.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter06/lesson03/net/mindview/simple02/Vector11.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter06/lesson03/net/mindview/simple02/List11.java" />
@@ -237,6 +245,8 @@
         <option value="$PROJECT_DIR$/src/main/java/Chapter06/lesson04/part02/PrintTest03.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter06/lesson04/part02/Print04.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter06/lesson04/part02/PrintTest04.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chapter06/lesson04/part02/Print05.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chapter06/lesson04/part02/PrintTest05.java" />
       </list>
     </option>
   </component>
@@ -441,27 +451,7 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.PrintTest04">
-    <configuration default="false" name="Hide07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="Chapter07.lesson09.part01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="Chapter07.lesson09.part01.Hide07" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="BruceEckel" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.PrintTest05">
     <configuration default="false" name="Hide08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -530,6 +520,26 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="Chapter06.lesson04.part02.PrintTest04" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="BruceEckel" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="PrintTest05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Chapter06.lesson04.part02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Chapter06.lesson04.part02.PrintTest05" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -954,19 +964,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Hide07" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Hide08" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Car01" />
-      <item index="3" class="java.lang.String" itemvalue="Application.PrintTest" />
-      <item index="4" class="java.lang.String" itemvalue="Application.PrintTest04" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Hide08" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Car01" />
+      <item index="2" class="java.lang.String" itemvalue="Application.PrintTest" />
+      <item index="3" class="java.lang.String" itemvalue="Application.PrintTest04" />
+      <item index="4" class="java.lang.String" itemvalue="Application.PrintTest05" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.PrintTest04" />
-        <item index="1" class="java.lang.String" itemvalue="Application.PrintTest" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Car01" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Hide08" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Hide07" />
+        <item index="0" class="java.lang.String" itemvalue="Application.PrintTest05" />
+        <item index="1" class="java.lang.String" itemvalue="Application.PrintTest04" />
+        <item index="2" class="java.lang.String" itemvalue="Application.PrintTest" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Car01" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Hide08" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -997,13 +1007,7 @@
       <workItem from="1447914235467" duration="19392000" />
       <workItem from="1448016570975" duration="30133000" />
       <workItem from="1448109008423" duration="655000" />
-      <workItem from="1448181776575" duration="2828000" />
-    </task>
-    <task id="LOCAL-00056" summary="add classes for ch06 les01">
-      <created>1447868388513</created>
-      <option name="number" value="00056" />
-      <option name="project" value="LOCAL" />
-      <updated>1447868388514</updated>
+      <workItem from="1448181776575" duration="3832000" />
     </task>
     <task id="LOCAL-00057" summary="add classes for ch06 les01">
       <created>1447868481342</created>
@@ -1293,11 +1297,17 @@
       <option name="project" value="LOCAL" />
       <updated>1448196258967</updated>
     </task>
-    <option name="localTasksCounter" value="105" />
+    <task id="LOCAL-00105" summary="add classes for ch06 les4 part02">
+      <created>1448196655463</created>
+      <option name="number" value="00105" />
+      <option name="project" value="LOCAL" />
+      <updated>1448196655463</updated>
+    </task>
+    <option name="localTasksCounter" value="106" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="139421000" />
+    <option name="totallyTimeSpent" value="140425000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="800" y="0" width="800" height="860" extended-state="0" />
@@ -1379,20 +1389,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06/lesson03/net/mindview/simple02/List09.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06/lesson03/net/mindview/simple02/LibTest09.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06/lesson03/net/mindview/simple02/Vector10.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1783,6 +1779,31 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06/lesson04/part02/PrintTest04.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06/lesson04/part02/Print05.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="47" selection-start-line="19" selection-start-column="47" selection-end-line="19" selection-end-column="47" />
+          <folding>
+            <element signature="e#172#173#0" expanded="true" />
+            <element signature="e#211#212#0" expanded="true" />
+            <element signature="e#243#244#0" expanded="true" />
+            <element signature="e#279#280#0" expanded="true" />
+            <element signature="e#323#324#0" expanded="true" />
+            <element signature="e#360#361#0" expanded="true" />
+            <element signature="e#433#434#0" expanded="true" />
+            <element signature="e#487#488#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06/lesson04/part02/PrintTest05.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.46153846">
           <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
