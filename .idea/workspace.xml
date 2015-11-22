@@ -2,38 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c11404aa-dddc-48a6-8c31-93898d45847f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter06/lesson05/part02/Dinner01.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter06/lesson05/part02/Dinner02.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter06/lesson05/part02/dessert/Cookie01.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter06/lesson05/part02/dessert/Cookie02.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter06/lesson05/part02/Dinner03.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter06/lesson05/part02/Dinner04.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter06/lesson05/part02/dessert/Cookie03.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter06/lesson05/part02/dessert/Cookie04.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/Chapter06/lesson05/Dinner01.java" afterPath="$PROJECT_DIR$/src/main/java/Chapter06/lesson05/part01/Dinner01.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/Chapter06/lesson05/Dinner02.java" afterPath="$PROJECT_DIR$/src/main/java/Chapter06/lesson05/part01/Dinner02.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/Chapter06/lesson05/Dinner03.java" afterPath="$PROJECT_DIR$/src/main/java/Chapter06/lesson05/part01/Dinner03.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/Chapter06/lesson05/Dinner04.java" afterPath="$PROJECT_DIR$/src/main/java/Chapter06/lesson05/part01/Dinner04.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/Chapter06/lesson05/Dinner08.java" afterPath="$PROJECT_DIR$/src/main/java/Chapter06/lesson05/part01/Dinner08.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/Chapter06/lesson05/Dinner09.java" afterPath="$PROJECT_DIR$/src/main/java/Chapter06/lesson05/part01/Dinner09.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/Chapter06/lesson05/Dinner10.java" afterPath="$PROJECT_DIR$/src/main/java/Chapter06/lesson05/part01/Dinner10.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/Chapter06/lesson05/Dinner11.java" afterPath="$PROJECT_DIR$/src/main/java/Chapter06/lesson05/part01/Dinner11.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/Chapter06/lesson05/Dinner12.java" afterPath="$PROJECT_DIR$/src/main/java/Chapter06/lesson05/part01/Dinner12.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/Chapter06/lesson05/Dinner13.java" afterPath="$PROJECT_DIR$/src/main/java/Chapter06/lesson05/part01/Dinner13.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/Chapter06/lesson05/Dinner14.java" afterPath="$PROJECT_DIR$/src/main/java/Chapter06/lesson05/part01/Dinner14.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/Chapter06/lesson05/Dinner15.java" afterPath="$PROJECT_DIR$/src/main/java/Chapter06/lesson05/part01/Dinner15.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/Chapter06/lesson05/Dinner16.java" afterPath="$PROJECT_DIR$/src/main/java/Chapter06/lesson05/part01/Dinner16.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/Chapter06/lesson05/dessert/Cookie01.java" afterPath="$PROJECT_DIR$/src/main/java/Chapter06/lesson05/part01/dessert/Cookie01.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/Chapter06/lesson05/dessert/Cookie02.java" afterPath="$PROJECT_DIR$/src/main/java/Chapter06/lesson05/part01/dessert/Cookie02.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/Chapter06/lesson05/dessert/Cookie03.java" afterPath="$PROJECT_DIR$/src/main/java/Chapter06/lesson05/part01/dessert/Cookie03.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/Chapter06/lesson05/dessert/Cookie04.java" afterPath="$PROJECT_DIR$/src/main/java/Chapter06/lesson05/part01/dessert/Cookie04.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/Chapter06/lesson05/dessert/Cookie05.java" afterPath="$PROJECT_DIR$/src/main/java/Chapter06/lesson05/part01/dessert/Cookie05.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/Chapter06/lesson05/dessert/Cookie08.java" afterPath="$PROJECT_DIR$/src/main/java/Chapter06/lesson05/part01/dessert/Cookie08.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/Chapter06/lesson05/dessert/Cookie09.java" afterPath="$PROJECT_DIR$/src/main/java/Chapter06/lesson05/part01/dessert/Cookie09.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/Chapter06/lesson05/dessert/Cookie10.java" afterPath="$PROJECT_DIR$/src/main/java/Chapter06/lesson05/part01/dessert/Cookie10.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/Chapter06/lesson05/dessert/Cookie11.java" afterPath="$PROJECT_DIR$/src/main/java/Chapter06/lesson05/part01/dessert/Cookie11.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/Chapter06/lesson05/dessert/Cookie12.java" afterPath="$PROJECT_DIR$/src/main/java/Chapter06/lesson05/part01/dessert/Cookie12.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/Chapter06/lesson05/dessert/Cookie13.java" afterPath="$PROJECT_DIR$/src/main/java/Chapter06/lesson05/part01/dessert/Cookie13.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/Chapter06/lesson05/dessert/Cookie14.java" afterPath="$PROJECT_DIR$/src/main/java/Chapter06/lesson05/part01/dessert/Cookie14.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/Chapter06/lesson05/dessert/Cookie15.java" afterPath="$PROJECT_DIR$/src/main/java/Chapter06/lesson05/part01/dessert/Cookie15.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/Chapter06/lesson05/dessert/Cookie16.java" afterPath="$PROJECT_DIR$/src/main/java/Chapter06/lesson05/part01/dessert/Cookie16.java" />
     </list>
     <ignored path="BruceEckel.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -84,11 +57,64 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Dinner02.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Dinner02.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06/lesson05/part02/Dinner02.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3846154">
+            <state vertical-scroll-proportion="0.0">
               <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Cookie03.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06/lesson05/part02/dessert/Cookie03.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+              <folding>
+                <element signature="e#133#134#0" expanded="true" />
+                <element signature="e#191#192#0" expanded="true" />
+                <element signature="e#208#209#0" expanded="true" />
+                <element signature="e#250#251#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Dinner03.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06/lesson05/part02/Dinner03.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+              <folding>
+                <element signature="e#198#199#0" expanded="true" />
+                <element signature="e#241#242#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Cookie04.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06/lesson05/part02/dessert/Cookie04.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+              <folding>
+                <element signature="e#133#134#0" expanded="true" />
+                <element signature="e#191#192#0" expanded="true" />
+                <element signature="e#208#209#0" expanded="true" />
+                <element signature="e#250#251#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Dinner04.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06/lesson05/part02/Dinner04.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.46153846">
+              <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -127,10 +153,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/Chapter07/lesson07/PlaceSetting08.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Chapter07/lesson08/CADSystem01.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Chapter07/lesson08/CADSystem02.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Chapter07/lesson08/CADSystem03.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter07/lesson08/CADSystem04.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter07/lesson08/CADSystem05.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter07/lesson08/part1/task05/CADSystem05.java" />
@@ -178,6 +200,10 @@
         <option value="$PROJECT_DIR$/src/main/java/Chapter06/lesson05/part02/Dinner01.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter06/lesson05/part02/dessert/Cookie02.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter06/lesson05/part02/Dinner02.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chapter06/lesson05/part02/dessert/Cookie03.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chapter06/lesson05/part02/Dinner03.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chapter06/lesson05/part02/dessert/Cookie04.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chapter06/lesson05/part02/Dinner04.java" />
       </list>
     </option>
   </component>
@@ -424,40 +450,6 @@
               <option name="myItemId" value="lesson05" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="part01" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="BruceEckel" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="BruceEckel" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Chapter06" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lesson04" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
@@ -484,47 +476,7 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.Dinner02">
-    <configuration default="false" name="PrintTest05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="Chapter06.lesson04.part02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="Chapter06.lesson04.part02.PrintTest05" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="BruceEckel" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="PrintTest07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="Chapter06.lesson04.part02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="Chapter06.lesson04.part02.PrintTest07" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="BruceEckel" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.Dinner04">
     <configuration default="false" name="PrintTest06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -573,6 +525,46 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="Chapter06.lesson05.part02.Dinner02" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="BruceEckel" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Dinner03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Chapter06.lesson05.part02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Chapter06.lesson05.part02.Dinner03" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="BruceEckel" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Dinner04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Chapter06.lesson05.part02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Chapter06.lesson05.part02.Dinner04" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -997,19 +989,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.PrintTest05" />
-      <item index="1" class="java.lang.String" itemvalue="Application.PrintTest07" />
-      <item index="2" class="java.lang.String" itemvalue="Application.PrintTest06" />
-      <item index="3" class="java.lang.String" itemvalue="Application.PrintTest08" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Dinner02" />
+      <item index="0" class="java.lang.String" itemvalue="Application.PrintTest06" />
+      <item index="1" class="java.lang.String" itemvalue="Application.PrintTest08" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Dinner02" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Dinner03" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Dinner04" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Dinner02" />
-        <item index="1" class="java.lang.String" itemvalue="Application.PrintTest08" />
-        <item index="2" class="java.lang.String" itemvalue="Application.PrintTest06" />
-        <item index="3" class="java.lang.String" itemvalue="Application.PrintTest07" />
-        <item index="4" class="java.lang.String" itemvalue="Application.PrintTest05" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Dinner04" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Dinner03" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Dinner02" />
+        <item index="3" class="java.lang.String" itemvalue="Application.PrintTest08" />
+        <item index="4" class="java.lang.String" itemvalue="Application.PrintTest06" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -1040,13 +1032,7 @@
       <workItem from="1447914235467" duration="19392000" />
       <workItem from="1448016570975" duration="30133000" />
       <workItem from="1448109008423" duration="655000" />
-      <workItem from="1448181776575" duration="9769000" />
-    </task>
-    <task id="LOCAL-00061" summary="add classes for ch06 les03">
-      <created>1447875330998</created>
-      <option name="number" value="00061" />
-      <option name="project" value="LOCAL" />
-      <updated>1447875330998</updated>
+      <workItem from="1448181776575" duration="10427000" />
     </task>
     <task id="LOCAL-00062" summary="add classes for ch06 les03">
       <created>1447934115985</created>
@@ -1336,11 +1322,17 @@
       <option name="project" value="LOCAL" />
       <updated>1448201552157</updated>
     </task>
-    <option name="localTasksCounter" value="110" />
+    <task id="LOCAL-00110" summary="add classes for ch06 les5 part02">
+      <created>1448203725281</created>
+      <option name="number" value="00110" />
+      <option name="project" value="LOCAL" />
+      <updated>1448203725281</updated>
+    </task>
+    <option name="localTasksCounter" value="111" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="146362000" />
+    <option name="totallyTimeSpent" value="147020000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="800" y="0" width="800" height="860" extended-state="0" />
@@ -1409,7 +1401,8 @@
     <MESSAGE value="add classes for ch07 les10" />
     <MESSAGE value="add classes for ch06 les4" />
     <MESSAGE value="add classes for ch06 les4 part02" />
-    <option name="LAST_COMMIT_MESSAGE" value="add classes for ch06 les4 part02" />
+    <MESSAGE value="add classes for ch06 les5 part02" />
+    <option name="LAST_COMMIT_MESSAGE" value="add classes for ch06 les5 part02" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1422,34 +1415,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter07/lesson07/PlaceSetting05.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="40" column="20" selection-start-line="40" selection-start-column="20" selection-end-line="40" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter07/lesson07/PlaceSetting06.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="58" column="49" selection-start-line="58" selection-start-column="49" selection-end-line="58" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter07/lesson08/part1/task05/CADSystem05.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.30769232">
-          <caret line="65" column="31" selection-start-line="65" selection-start-column="31" selection-end-line="65" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter07/lesson08/part1/task02/CADSystem02.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="3.0">
-          <caret line="78" column="1" selection-start-line="78" selection-start-column="1" selection-end-line="78" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Chapter07/lesson08/part1/task01/CADSystem01.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="1.6538461">
@@ -1646,14 +1611,14 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="19" column="47" selection-start-line="19" selection-start-column="47" selection-end-line="19" selection-end-column="47" />
           <folding>
-            <element signature="e#172#173#0" expanded="true" />
-            <element signature="e#211#212#0" expanded="true" />
-            <element signature="e#243#244#0" expanded="true" />
-            <element signature="e#279#280#0" expanded="true" />
-            <element signature="e#323#324#0" expanded="true" />
-            <element signature="e#362#363#0" expanded="true" />
-            <element signature="e#435#436#0" expanded="true" />
-            <element signature="e#489#490#0" expanded="true" />
+            <element signature="e#172#173#0" expanded="false" />
+            <element signature="e#211#212#0" expanded="false" />
+            <element signature="e#243#244#0" expanded="false" />
+            <element signature="e#279#280#0" expanded="false" />
+            <element signature="e#323#324#0" expanded="false" />
+            <element signature="e#362#363#0" expanded="false" />
+            <element signature="e#435#436#0" expanded="false" />
+            <element signature="e#489#490#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1679,14 +1644,14 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
           <folding>
-            <element signature="e#172#173#0" expanded="true" />
-            <element signature="e#211#212#0" expanded="true" />
-            <element signature="e#243#244#0" expanded="true" />
-            <element signature="e#279#280#0" expanded="true" />
-            <element signature="e#323#324#0" expanded="true" />
-            <element signature="e#360#361#0" expanded="true" />
-            <element signature="e#433#434#0" expanded="true" />
-            <element signature="e#487#488#0" expanded="true" />
+            <element signature="e#172#173#0" expanded="false" />
+            <element signature="e#211#212#0" expanded="false" />
+            <element signature="e#243#244#0" expanded="false" />
+            <element signature="e#279#280#0" expanded="false" />
+            <element signature="e#323#324#0" expanded="false" />
+            <element signature="e#360#361#0" expanded="false" />
+            <element signature="e#433#434#0" expanded="false" />
+            <element signature="e#487#488#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1704,14 +1669,14 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="19" column="47" selection-start-line="19" selection-start-column="47" selection-end-line="19" selection-end-column="47" />
           <folding>
-            <element signature="e#172#173#0" expanded="true" />
-            <element signature="e#211#212#0" expanded="true" />
-            <element signature="e#243#244#0" expanded="true" />
-            <element signature="e#279#280#0" expanded="true" />
-            <element signature="e#323#324#0" expanded="true" />
-            <element signature="e#360#361#0" expanded="true" />
-            <element signature="e#433#434#0" expanded="true" />
-            <element signature="e#487#488#0" expanded="true" />
+            <element signature="e#172#173#0" expanded="false" />
+            <element signature="e#211#212#0" expanded="false" />
+            <element signature="e#243#244#0" expanded="false" />
+            <element signature="e#279#280#0" expanded="false" />
+            <element signature="e#323#324#0" expanded="false" />
+            <element signature="e#360#361#0" expanded="false" />
+            <element signature="e#433#434#0" expanded="false" />
+            <element signature="e#487#488#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1729,14 +1694,14 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="20" column="47" selection-start-line="20" selection-start-column="47" selection-end-line="20" selection-end-column="47" />
           <folding>
-            <element signature="e#172#173#0" expanded="true" />
-            <element signature="e#211#212#0" expanded="true" />
-            <element signature="e#243#244#0" expanded="true" />
-            <element signature="e#279#280#0" expanded="true" />
-            <element signature="e#323#324#0" expanded="true" />
-            <element signature="e#360#361#0" expanded="true" />
-            <element signature="e#434#435#0" expanded="true" />
-            <element signature="e#488#489#0" expanded="true" />
+            <element signature="e#172#173#0" expanded="false" />
+            <element signature="e#211#212#0" expanded="false" />
+            <element signature="e#243#244#0" expanded="false" />
+            <element signature="e#279#280#0" expanded="false" />
+            <element signature="e#323#324#0" expanded="false" />
+            <element signature="e#360#361#0" expanded="false" />
+            <element signature="e#434#435#0" expanded="false" />
+            <element signature="e#488#489#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1754,14 +1719,14 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="19" column="47" selection-start-line="19" selection-start-column="47" selection-end-line="19" selection-end-column="47" />
           <folding>
-            <element signature="e#172#173#0" expanded="true" />
-            <element signature="e#211#212#0" expanded="true" />
-            <element signature="e#243#244#0" expanded="true" />
-            <element signature="e#279#280#0" expanded="true" />
-            <element signature="e#323#324#0" expanded="true" />
-            <element signature="e#360#361#0" expanded="true" />
-            <element signature="e#433#434#0" expanded="true" />
-            <element signature="e#487#488#0" expanded="true" />
+            <element signature="e#172#173#0" expanded="false" />
+            <element signature="e#211#212#0" expanded="false" />
+            <element signature="e#243#244#0" expanded="false" />
+            <element signature="e#279#280#0" expanded="false" />
+            <element signature="e#323#324#0" expanded="false" />
+            <element signature="e#360#361#0" expanded="false" />
+            <element signature="e#433#434#0" expanded="false" />
+            <element signature="e#487#488#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1779,14 +1744,14 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="19" column="47" selection-start-line="19" selection-start-column="47" selection-end-line="19" selection-end-column="47" />
           <folding>
-            <element signature="e#172#173#0" expanded="true" />
-            <element signature="e#211#212#0" expanded="true" />
-            <element signature="e#243#244#0" expanded="true" />
-            <element signature="e#279#280#0" expanded="true" />
-            <element signature="e#323#324#0" expanded="true" />
-            <element signature="e#360#361#0" expanded="true" />
-            <element signature="e#433#434#0" expanded="true" />
-            <element signature="e#487#488#0" expanded="true" />
+            <element signature="e#172#173#0" expanded="false" />
+            <element signature="e#211#212#0" expanded="false" />
+            <element signature="e#243#244#0" expanded="false" />
+            <element signature="e#279#280#0" expanded="false" />
+            <element signature="e#323#324#0" expanded="false" />
+            <element signature="e#360#361#0" expanded="false" />
+            <element signature="e#433#434#0" expanded="false" />
+            <element signature="e#487#488#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1804,14 +1769,14 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
           <folding>
-            <element signature="e#172#173#0" expanded="true" />
-            <element signature="e#211#212#0" expanded="true" />
-            <element signature="e#243#244#0" expanded="true" />
-            <element signature="e#279#280#0" expanded="true" />
-            <element signature="e#323#324#0" expanded="true" />
-            <element signature="e#360#361#0" expanded="true" />
-            <element signature="e#433#434#0" expanded="true" />
-            <element signature="e#487#488#0" expanded="true" />
+            <element signature="e#172#173#0" expanded="false" />
+            <element signature="e#211#212#0" expanded="false" />
+            <element signature="e#243#244#0" expanded="false" />
+            <element signature="e#279#280#0" expanded="false" />
+            <element signature="e#323#324#0" expanded="false" />
+            <element signature="e#360#361#0" expanded="false" />
+            <element signature="e#433#434#0" expanded="false" />
+            <element signature="e#487#488#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1829,14 +1794,14 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="19" column="47" selection-start-line="19" selection-start-column="47" selection-end-line="19" selection-end-column="47" />
           <folding>
-            <element signature="e#172#173#0" expanded="true" />
-            <element signature="e#211#212#0" expanded="true" />
-            <element signature="e#243#244#0" expanded="true" />
-            <element signature="e#279#280#0" expanded="true" />
-            <element signature="e#323#324#0" expanded="true" />
-            <element signature="e#360#361#0" expanded="true" />
-            <element signature="e#433#434#0" expanded="true" />
-            <element signature="e#487#488#0" expanded="true" />
+            <element signature="e#172#173#0" expanded="false" />
+            <element signature="e#211#212#0" expanded="false" />
+            <element signature="e#243#244#0" expanded="false" />
+            <element signature="e#279#280#0" expanded="false" />
+            <element signature="e#323#324#0" expanded="false" />
+            <element signature="e#360#361#0" expanded="false" />
+            <element signature="e#433#434#0" expanded="false" />
+            <element signature="e#487#488#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1888,8 +1853,53 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06/lesson05/part02/Dinner02.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3846154">
+        <state vertical-scroll-proportion="0.0">
           <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06/lesson05/part02/dessert/Cookie03.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+          <folding>
+            <element signature="e#133#134#0" expanded="true" />
+            <element signature="e#191#192#0" expanded="true" />
+            <element signature="e#208#209#0" expanded="true" />
+            <element signature="e#250#251#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06/lesson05/part02/Dinner03.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding>
+            <element signature="e#198#199#0" expanded="true" />
+            <element signature="e#241#242#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06/lesson05/part02/dessert/Cookie04.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+          <folding>
+            <element signature="e#133#134#0" expanded="true" />
+            <element signature="e#191#192#0" expanded="true" />
+            <element signature="e#208#209#0" expanded="true" />
+            <element signature="e#250#251#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06/lesson05/part02/Dinner04.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.46153846">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
           <folding />
         </state>
       </provider>
