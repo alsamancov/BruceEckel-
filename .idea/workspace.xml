@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c11404aa-dddc-48a6-8c31-93898d45847f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter06/lesson04/part02/Print05.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter06/lesson04/part02/PrintTest05.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter06/lesson04/part02/Print06.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter06/lesson04/part02/PrintTest06.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="BruceEckel.iws" />
@@ -27,16 +27,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="PrintTest01.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06/lesson04/part02/PrintTest01.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Print02.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06/lesson04/part02/Print02.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -143,21 +133,40 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PrintTest05.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="PrintTest05.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06/lesson04/part02/PrintTest05.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.46153846">
+            <state vertical-scroll-proportion="0.0">
               <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PrintTest01.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06/lesson04/part01/PrintTest01.java">
+      <file leaf-file-name="Print06.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06/lesson04/part02/Print06.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+              <caret line="19" column="47" selection-start-line="19" selection-start-column="47" selection-end-line="19" selection-end-column="47" />
+              <folding>
+                <element signature="e#172#173#0" expanded="true" />
+                <element signature="e#209#210#0" expanded="true" />
+                <element signature="e#241#242#0" expanded="true" />
+                <element signature="e#277#278#0" expanded="true" />
+                <element signature="e#321#322#0" expanded="true" />
+                <element signature="e#358#359#0" expanded="true" />
+                <element signature="e#431#432#0" expanded="true" />
+                <element signature="e#485#486#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PrintTest06.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06/lesson04/part02/PrintTest06.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.46153846">
+              <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -196,8 +205,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/Chapter06/lesson03/net/mindview/simple02/LibTest10.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Chapter06/lesson03/net/mindview/simple02/Vector11.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter06/lesson03/net/mindview/simple02/List11.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter06/lesson03/net/mindview/simple02/LibTest11.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter07/lesson07/PlaceSetting01.java" />
@@ -247,6 +254,8 @@
         <option value="$PROJECT_DIR$/src/main/java/Chapter06/lesson04/part02/PrintTest04.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter06/lesson04/part02/Print05.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter06/lesson04/part02/PrintTest05.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chapter06/lesson04/part02/Print06.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chapter06/lesson04/part02/PrintTest06.java" />
       </list>
     </option>
   </component>
@@ -1007,13 +1016,7 @@
       <workItem from="1447914235467" duration="19392000" />
       <workItem from="1448016570975" duration="30133000" />
       <workItem from="1448109008423" duration="655000" />
-      <workItem from="1448181776575" duration="3832000" />
-    </task>
-    <task id="LOCAL-00057" summary="add classes for ch06 les01">
-      <created>1447868481342</created>
-      <option name="number" value="00057" />
-      <option name="project" value="LOCAL" />
-      <updated>1447868481342</updated>
+      <workItem from="1448181776575" duration="6542000" />
     </task>
     <task id="LOCAL-00058" summary="add classes for ch06 les01">
       <created>1447868561972</created>
@@ -1303,11 +1306,17 @@
       <option name="project" value="LOCAL" />
       <updated>1448196655463</updated>
     </task>
-    <option name="localTasksCounter" value="106" />
+    <task id="LOCAL-00106" summary="add classes for ch06 les4 part02">
+      <created>1448197607834</created>
+      <option name="number" value="00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1448197607834</updated>
+    </task>
+    <option name="localTasksCounter" value="107" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="140425000" />
+    <option name="totallyTimeSpent" value="143135000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="800" y="0" width="800" height="860" extended-state="0" />
@@ -1389,20 +1398,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06/lesson03/net/mindview/simple02/Vector10.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06/lesson03/net/mindview/simple02/List10.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06/lesson03/net/mindview/simple02/LibTest10.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1804,6 +1799,31 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06/lesson04/part02/PrintTest05.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06/lesson04/part02/Print06.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="47" selection-start-line="19" selection-start-column="47" selection-end-line="19" selection-end-column="47" />
+          <folding>
+            <element signature="e#172#173#0" expanded="true" />
+            <element signature="e#209#210#0" expanded="true" />
+            <element signature="e#241#242#0" expanded="true" />
+            <element signature="e#277#278#0" expanded="true" />
+            <element signature="e#321#322#0" expanded="true" />
+            <element signature="e#358#359#0" expanded="true" />
+            <element signature="e#431#432#0" expanded="true" />
+            <element signature="e#485#486#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06/lesson04/part02/PrintTest06.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.46153846">
           <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
