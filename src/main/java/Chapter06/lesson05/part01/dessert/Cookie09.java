@@ -1,10 +1,10 @@
-package Chapter06.lesson05.dessert;
+package Chapter06.lesson05.part01.dessert;
 
 /**
  * Created by Alex on 14.11.15.
  */
-public class Cookie08 {
-    public Cookie08(){
+public class Cookie09 {
+    public Cookie09(){
         System.out.println("Cookie constructor");
     }
     void bite(){

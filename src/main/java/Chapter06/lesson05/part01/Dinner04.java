@@ -1,6 +1,6 @@
-package Chapter06.lesson05;
+package Chapter06.lesson05.part01;
 
-import Chapter06.lesson05.dessert.Cookie04;
+import Chapter06.lesson05.part01.dessert.Cookie04;
 
 /**
  * Created by Alexey on 11/14/2015.

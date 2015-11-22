@@ -1,6 +1,6 @@
-package Chapter06.lesson05;
+package Chapter06.lesson05.part01;
 
-import Chapter06.lesson05.dessert.*;
+import Chapter06.lesson05.part01.dessert.*;
 
 /**
  * Created by Alexey on 11/14/2015.
