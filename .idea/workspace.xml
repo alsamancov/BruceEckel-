@@ -2,9 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c11404aa-dddc-48a6-8c31-93898d45847f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter06/lesson06/part02/Cake08.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter06/lesson06/part02/Pie08.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter06/lesson07/part02/IceCream01.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/Chapter06/lesson07/IceCream01.java" afterPath="$PROJECT_DIR$/src/main/java/Chapter06/lesson07/part01/IceCream01.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/Chapter06/lesson07/IceCream02.java" afterPath="$PROJECT_DIR$/src/main/java/Chapter06/lesson07/part01/IceCream02.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/Chapter06/lesson07/IceCream03.java" afterPath="$PROJECT_DIR$/src/main/java/Chapter06/lesson07/part01/IceCream03.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/Chapter06/lesson07/IceCream04.java" afterPath="$PROJECT_DIR$/src/main/java/Chapter06/lesson07/part01/IceCream04.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/Chapter06/lesson07/IceCream05.java" afterPath="$PROJECT_DIR$/src/main/java/Chapter06/lesson07/part01/IceCream05.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/Chapter06/lesson07/IceCream06.java" afterPath="$PROJECT_DIR$/src/main/java/Chapter06/lesson07/part01/IceCream06.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/Chapter06/lesson07/IceCream07.java" afterPath="$PROJECT_DIR$/src/main/java/Chapter06/lesson07/part01/IceCream07.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/Chapter06/lesson07/IceCream08.java" afterPath="$PROJECT_DIR$/src/main/java/Chapter06/lesson07/part01/IceCream08.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/Chapter06/lesson07/IceCream09.java" afterPath="$PROJECT_DIR$/src/main/java/Chapter06/lesson07/part01/IceCream09.java" />
     </list>
     <ignored path="BruceEckel.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,19 +35,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Pie04.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06/lesson06/part02/Pie04.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="7" column="40" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
-              <folding>
-                <element signature="e#113#114#0" expanded="true" />
-                <element signature="e#160#161#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Cake04.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06/lesson06/part02/Cake04.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -132,12 +127,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Cake08.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Cake08.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06/lesson06/part02/Cake08.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.30769232">
+            <state vertical-scroll-proportion="0.0">
               <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IceCream01.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06/lesson07/part02/IceCream01.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.53846157">
+              <caret line="14" column="44" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
+              <folding>
+                <element signature="e#154#155#0" expanded="true" />
+                <element signature="e#191#192#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -175,7 +183,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/Chapter06/lesson04/part01/Print01.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter06/lesson04/part02/Print01.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter06/lesson04/part02/PrintTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter06/lesson04/part02/Print02.java" />
@@ -226,6 +233,7 @@
         <option value="$PROJECT_DIR$/src/main/java/Chapter06/lesson06/part02/Cake07.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter06/lesson06/part02/Pie08.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter06/lesson06/part02/Cake08.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chapter06/lesson07/part02/IceCream01.java" />
       </list>
     </option>
   </component>
@@ -367,11 +375,45 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="lesson06" />
+              <option name="myItemId" value="lesson07" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="part02" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="IceCream01.java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BruceEckel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BruceEckel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Chapter06" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lesson07" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1016,13 +1058,7 @@
       <workItem from="1447914235467" duration="19392000" />
       <workItem from="1448016570975" duration="30133000" />
       <workItem from="1448109008423" duration="655000" />
-      <workItem from="1448181776575" duration="14128000" />
-    </task>
-    <task id="LOCAL-00074" summary="add classes for ch07 les07">
-      <created>1447967510403</created>
-      <option name="number" value="00074" />
-      <option name="project" value="LOCAL" />
-      <updated>1447967510403</updated>
+      <workItem from="1448181776575" duration="14488000" />
     </task>
     <task id="LOCAL-00075" summary="add classes for ch07 les07">
       <created>1447968613737</created>
@@ -1312,11 +1348,17 @@
       <option name="project" value="LOCAL" />
       <updated>1448222129374</updated>
     </task>
-    <option name="localTasksCounter" value="123" />
+    <task id="LOCAL-00123" summary="add classes for ch06 les6 part02">
+      <created>1448222231683</created>
+      <option name="number" value="00123" />
+      <option name="project" value="LOCAL" />
+      <updated>1448222231683</updated>
+    </task>
+    <option name="localTasksCounter" value="124" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="150721000" />
+    <option name="totallyTimeSpent" value="151081000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="800" y="0" width="800" height="860" extended-state="0" />
@@ -1400,14 +1442,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter07/lesson10/part01/Car08.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="36" column="37" selection-start-line="36" selection-start-column="37" selection-end-line="36" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06/lesson04/part01/Print01.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1947,9 +1981,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06/lesson06/part02/Cake08.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.30769232">
+        <state vertical-scroll-proportion="0.0">
           <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06/lesson07/part02/IceCream01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.53846157">
+          <caret line="14" column="44" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
+          <folding>
+            <element signature="e#154#155#0" expanded="true" />
+            <element signature="e#191#192#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
