@@ -3,19 +3,19 @@ package Chapter07.lesson01.part02;
 /**
  * Created by Alexey on 11/24/2015.
  */
-class WaterSource02{
+class WaterSource03{
     private String s;
-    WaterSource02(){
-        System.out.println("WaterSource02()");
+    WaterSource03(){
+        System.out.println("WaterSource03()");
         s = "Constructed";
     }
     public String toString(){
         return s;
     }
 }
-public class SprinklerSystem02 {
+public class SprinklerSystem03 {
     private String valve1, valve2, valve3, valve4;
-    private WaterSource02 source02 = new WaterSource02();
+    private WaterSource03 source03 = new WaterSource03();
     private int i;
     private float f;
     public String toString(){
@@ -24,10 +24,10 @@ public class SprinklerSystem02 {
                 "valve3 = " + valve3 + " " +
                 "valve4 = " + valve4 + "\n" +
                 "i = " + i + " " + "f = " + f + " " +
-                "source = " + source02;
+                "source = " + source03;
     }
     public static void main(String[] args){
-        SprinklerSystem02 sprinklerSystem02 = new SprinklerSystem02();
-        System.out.println(sprinklerSystem02);
+        SprinklerSystem03 sprinkler03 = new SprinklerSystem03();
+        System.out.println(sprinkler03);
     }
 }
