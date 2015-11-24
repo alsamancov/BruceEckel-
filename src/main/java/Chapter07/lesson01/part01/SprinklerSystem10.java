@@ -1,21 +1,23 @@
-package Chapter07.lesson01;
+package Chapter07.lesson01.part01;
 
 /**
  * Created by Alex on 16.11.15.
  */
-class WaterSource08{
+
+class WaterSource10{
     private String s;
-    WaterSource08(){
-        System.out.println("WaterSource08()");
+    WaterSource10(){
+        System.out.println("WaterSource10()");
         s = "Constructed";
     }
     public String toString(){
         return s;
     }
 }
-public class SprinklerSystem08 {
+
+public class SprinklerSystem10 {
     private String valve1, valve2, valve3, valve4;
-    private WaterSource08 source08 = new WaterSource08();
+    private WaterSource10 source10 = new WaterSource10();
     private int i;
     private float f;
     public String toString(){
@@ -24,10 +26,10 @@ public class SprinklerSystem08 {
                 "valve3 = " + valve3 + " " +
                 "valve4 = " + valve4 + "\n" +
                 "i = " + i + " " + "f = " + f + " " +
-                "source = " + source08;
+                "source = " + source10;
     }
     public static void main(String[] args){
-        SprinklerSystem08 sprinklerSystem08 = new SprinklerSystem08();
-        System.out.println(sprinklerSystem08);
+        SprinklerSystem10 sprinklerSystem10 = new SprinklerSystem10();
+        System.out.println(sprinklerSystem10);
     }
 }

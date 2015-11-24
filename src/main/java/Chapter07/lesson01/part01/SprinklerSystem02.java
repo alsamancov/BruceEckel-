@@ -1,4 +1,4 @@
-package Chapter07.lesson01;
+package Chapter07.lesson01.part01;
 
 /**
  * Created by Alexey on 11/16/2015.
