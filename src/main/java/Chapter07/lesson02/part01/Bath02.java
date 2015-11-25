@@ -1,33 +1,33 @@
-package Chapter07.lesson02;
+package Chapter07.lesson02.part01;
 
 /**
  * Created by Alex on 16.11.15.
  */
-class Soap01{
+class Soap02{
     private String s;
-    Soap01(){
-        System.out.println("Soap01()");
+    Soap02(){
+        System.out.println("Soap02()");
         s = "Constructed";
     }
     public String toString(){
         return s;
     }
 }
-public class Bath01 {
+public class Bath02 {
     private String
     s1 = "Happy",
     s2 = "Happy",
     s3, s4;
-    private Soap01 castille;
+    private Soap02 castille;
     private int i;
     private float toy;
-    public Bath01(){
-        System.out.println("Inside Bath01()");
+    public Bath02(){
+        System.out.println("Inside Bath02()");
         s3 = "Joy";
         toy = 3.14f;
-        castille = new Soap01();
+        castille = new Soap02();
     }
-    {i = 47;}
+    { i = 47;}
     public String toString(){
         if(s4 == null)
             s4 = "Joy";
@@ -40,7 +40,7 @@ public class Bath01 {
                 "castille = " + castille;
     }
     public static void main(String[] args){
-        Bath01 b = new Bath01();
+        Bath02 b = new Bath02();
         System.out.println(b);
     }
 }
