@@ -1,10 +1,10 @@
-package Chapter07.lesson03;
+package Chapter07.lesson03.part01;
 
 /**
  * Created by Alexey on 11/17/2015.
  */
-class Cleanser02{
-    private String s = "Cleanser02";
+class Cleanser01{
+    private String s = "Cleanser";
     public void append(String a){
         s += a;
     }
@@ -21,27 +21,27 @@ class Cleanser02{
         return s;
     }
     public static void main(String[] args){
-        Cleanser02 x = new Cleanser02();
+        Cleanser01 x = new Cleanser01();
         x.dilute(); x.apply(); x.scrub();
         System.out.println(x);
     }
 }
-public class Detergent02 extends Cleanser02{
+public class Detergent01 extends Cleanser01 {
     public void scrub(){
-        append(" Detergent02.scrub()");
+        append(" Detergent.scrub()");
         super.scrub();
     }
     public void foam(){
         append(" foam()");
     }
     public static void main(String[] args){
-        Detergent02 x = new Detergent02();
+        Detergent01 x = new Detergent01();
         x.dilute();
         x.apply();
         x.scrub();
         x.foam();
         System.out.println(x);
         System.out.println("Testing base class:");
-        Cleanser02.main(args);
+        Cleanser01.main(args);
     }
 }
