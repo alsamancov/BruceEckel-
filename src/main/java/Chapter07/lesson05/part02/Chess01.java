@@ -1,7 +1,7 @@
-package Chapter07.lesson05;
+package Chapter07.lesson05.part02;
 
 /**
- * Created by Alexey on 11/18/2015.
+ * Created by Alexey on 11/30/2015.
  */
 class Game01{
     Game01(int i){
