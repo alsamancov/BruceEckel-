@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c11404aa-dddc-48a6-8c31-93898d45847f" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter07/lesson05/part02/Chess04.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/Chapter07/lesson05/part02/Chess03.java" afterPath="$PROJECT_DIR$/src/main/java/Chapter07/lesson05/part02/Chess03.java" />
     </list>
     <ignored path="BruceEckel.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,25 +26,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Cartoon02.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter07/lesson04/part02/Cartoon02.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
-              <folding>
-                <element signature="e#104#105#0" expanded="true" />
-                <element signature="e#159#160#0" expanded="true" />
-                <element signature="e#209#210#0" expanded="true" />
-                <element signature="e#268#269#0" expanded="true" />
-                <element signature="e#336#337#0" expanded="true" />
-                <element signature="e#395#396#0" expanded="true" />
-                <element signature="e#439#440#0" expanded="true" />
-                <element signature="e#484#485#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Cartoon03.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Chapter07/lesson04/part02/Cartoon03.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -188,16 +169,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Chess03.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Chess03.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Chapter07/lesson05/part02/Chess03.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.8480726">
+            <state vertical-scroll-proportion="0.0">
               <caret line="22" column="34" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
               <folding>
                 <element signature="e#111#112#0" expanded="true" />
                 <element signature="e#167#168#0" expanded="true" />
                 <element signature="e#485#486#0" expanded="true" />
                 <element signature="e#526#527#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Chess04.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter07/lesson05/part02/Chess04.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.8480726">
+              <caret line="22" column="34" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
+              <folding>
+                <element signature="e#111#112#0" expanded="true" />
+                <element signature="e#167#168#0" expanded="true" />
+                <element signature="e#486#487#0" expanded="true" />
+                <element signature="e#527#528#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -236,7 +232,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/Chapter07/lesson12/part01/Wind02.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter07/lesson12/part01/Wind03.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter07/lesson12/part01/Wind04.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter07/lesson12/part01/Wind05.java" />
@@ -287,6 +282,7 @@
         <option value="$PROJECT_DIR$/src/main/java/Chapter07/lesson05/part02/Chess01.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter07/lesson05/part02/Chess02.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter07/lesson05/part02/Chess03.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chapter07/lesson05/part02/Chess04.java" />
       </list>
     </option>
   </component>
@@ -413,7 +409,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Chess03.java" />
+              <option name="myItemId" value="Chess04.java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -530,27 +526,7 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.Chess03">
-    <configuration default="false" name="Cartoon07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="Chapter07.lesson04.part02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="Chapter07.lesson04.part02.Cartoon07" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="BruceEckel" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.Chess04">
     <configuration default="false" name="Cartoon08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -619,6 +595,26 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="Chapter07.lesson05.part02.Chess03" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="BruceEckel" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Chess04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Chapter07.lesson05.part02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Chapter07.lesson05.part02.Chess04" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -1043,19 +1039,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Cartoon07" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Cartoon08" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Chess01" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Chess02" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Chess03" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Cartoon08" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Chess01" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Chess02" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Chess03" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Chess04" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Chess03" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Chess02" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Chess01" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Cartoon08" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Cartoon07" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Chess04" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Chess03" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Chess02" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Chess01" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Cartoon08" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -1096,13 +1092,7 @@
       <workItem from="1448707517787" duration="579000" />
       <workItem from="1448804703999" duration="3363000" />
       <workItem from="1448901751851" duration="1508000" />
-      <workItem from="1448905815760" duration="6834000" />
-    </task>
-    <task id="LOCAL-00147" summary="add classes for ch07 les12 part01">
-      <created>1448312821726</created>
-      <option name="number" value="00147" />
-      <option name="project" value="LOCAL" />
-      <updated>1448312821726</updated>
+      <workItem from="1448905815760" duration="7093000" />
     </task>
     <task id="LOCAL-00148" summary="add classes for ch07 les12 part01">
       <created>1448312965760</created>
@@ -1392,11 +1382,17 @@
       <option name="project" value="LOCAL" />
       <updated>1448913035774</updated>
     </task>
-    <option name="localTasksCounter" value="196" />
+    <task id="LOCAL-00196" summary="add classes for ch07 les05 part02">
+      <created>1448913272884</created>
+      <option name="number" value="00196" />
+      <option name="project" value="LOCAL" />
+      <updated>1448913272884</updated>
+    </task>
+    <option name="localTasksCounter" value="197" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="205010000" />
+    <option name="totallyTimeSpent" value="205269000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="800" y="1" width="800" height="859" extended-state="0" />
@@ -1485,13 +1481,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter07/lesson12/part01/Wind02.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Chapter07/lesson12/part01/Wind03.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1831,14 +1820,14 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
           <folding>
-            <element signature="e#104#105#0" expanded="true" />
-            <element signature="e#159#160#0" expanded="true" />
-            <element signature="e#209#210#0" expanded="true" />
-            <element signature="e#268#269#0" expanded="true" />
-            <element signature="e#336#337#0" expanded="true" />
-            <element signature="e#395#396#0" expanded="true" />
-            <element signature="e#439#440#0" expanded="true" />
-            <element signature="e#484#485#0" expanded="true" />
+            <element signature="e#104#105#0" expanded="false" />
+            <element signature="e#159#160#0" expanded="false" />
+            <element signature="e#209#210#0" expanded="false" />
+            <element signature="e#268#269#0" expanded="false" />
+            <element signature="e#336#337#0" expanded="false" />
+            <element signature="e#395#396#0" expanded="false" />
+            <element signature="e#439#440#0" expanded="false" />
+            <element signature="e#484#485#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1972,13 +1961,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Chapter07/lesson05/part02/Chess03.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8480726">
+        <state vertical-scroll-proportion="0.0">
           <caret line="22" column="34" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
           <folding>
             <element signature="e#111#112#0" expanded="true" />
             <element signature="e#167#168#0" expanded="true" />
             <element signature="e#485#486#0" expanded="true" />
             <element signature="e#526#527#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter07/lesson05/part02/Chess04.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8480726">
+          <caret line="22" column="34" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
+          <folding>
+            <element signature="e#111#112#0" expanded="true" />
+            <element signature="e#167#168#0" expanded="true" />
+            <element signature="e#486#487#0" expanded="true" />
+            <element signature="e#527#528#0" expanded="true" />
           </folding>
         </state>
       </provider>
