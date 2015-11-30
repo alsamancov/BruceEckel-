@@ -40,6 +40,7 @@ public class Detergent01 extends Cleanser01 {
         x.apply();
         x.scrub();
         x.foam();
+        System.out.println(x);
         System.out.println("Testing base class:");
         Cleanser01.main(args);
     }
