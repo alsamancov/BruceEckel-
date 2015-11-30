@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c11404aa-dddc-48a6-8c31-93898d45847f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter07/lesson03/part02/Detergent07.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="BruceEckel.iws" />
@@ -985,13 +984,7 @@
       <workItem from="1448707517787" duration="579000" />
       <workItem from="1448804703999" duration="3363000" />
       <workItem from="1448901751851" duration="1508000" />
-      <workItem from="1448905815760" duration="2162000" />
-    </task>
-    <task id="LOCAL-00133" summary="add classes for ch07 les11 part01">
-      <created>1448230430044</created>
-      <option name="number" value="00133" />
-      <option name="project" value="LOCAL" />
-      <updated>1448230430044</updated>
+      <workItem from="1448905815760" duration="2414000" />
     </task>
     <task id="LOCAL-00134" summary="add classes for ch07 les11 part01">
       <created>1448230961343</created>
@@ -1281,11 +1274,17 @@
       <option name="project" value="LOCAL" />
       <updated>1448907842299</updated>
     </task>
-    <option name="localTasksCounter" value="182" />
+    <task id="LOCAL-00182" summary="add classes for ch07 les03 part02">
+      <created>1448908602428</created>
+      <option name="number" value="00182" />
+      <option name="project" value="LOCAL" />
+      <updated>1448908602428</updated>
+    </task>
+    <option name="localTasksCounter" value="183" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="200338000" />
+    <option name="totallyTimeSpent" value="200590000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="800" y="1" width="800" height="859" extended-state="0" />
