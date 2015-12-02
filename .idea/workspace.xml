@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c11404aa-dddc-48a6-8c31-93898d45847f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter07/lesson07/part02/PlaceSetting04.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter07/lesson07/part02/PlaceSetting05.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="BruceEckel.iws" />
@@ -65,10 +65,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PlaceSetting04.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="PlaceSetting04.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Chapter07/lesson07/part02/PlaceSetting04.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.845805">
+            <state vertical-scroll-proportion="0.0">
               <caret line="61" column="0" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
               <folding>
                 <element signature="e#113#114#0" expanded="true" />
@@ -79,6 +79,25 @@
                 <element signature="e#900#901#0" expanded="true" />
                 <element signature="e#1352#1353#0" expanded="true" />
                 <element signature="e#1408#1409#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PlaceSetting05.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter07/lesson07/part02/PlaceSetting05.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.845805">
+              <caret line="61" column="1" selection-start-line="61" selection-start-column="1" selection-end-line="61" selection-end-column="1" />
+              <folding>
+                <element signature="e#113#114#0" expanded="true" />
+                <element signature="e#170#171#0" expanded="true" />
+                <element signature="e#357#358#0" expanded="true" />
+                <element signature="e#416#417#0" expanded="true" />
+                <element signature="e#842#843#0" expanded="true" />
+                <element signature="e#900#901#0" expanded="true" />
+                <element signature="e#1354#1355#0" expanded="true" />
+                <element signature="e#1410#1411#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -117,7 +136,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/Chapter07/lesson01/part02/SprinklerSystem03.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter07/lesson01/part02/SprinklerSystem04.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter07/lesson01/part02/SprinklerSystem05.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter07/lesson01/part02/SprinklerSystem06.java" />
@@ -168,6 +186,7 @@
         <option value="$PROJECT_DIR$/src/main/java/Chapter07/lesson07/part02/PlaceSetting02.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter07/lesson07/part02/PlaceSetting03.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter07/lesson07/part02/PlaceSetting04.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chapter07/lesson07/part02/PlaceSetting05.java" />
       </list>
     </option>
   </component>
@@ -297,7 +316,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="PlaceSetting04.java" />
+              <option name="myItemId" value="PlaceSetting05.java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -411,27 +430,7 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.PlaceSetting04">
-    <configuration default="false" name="Chess07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="Chapter07.lesson05.part02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="Chapter07.lesson05.part02.Chess07" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="BruceEckel" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.PlaceSetting05">
     <configuration default="false" name="Chess08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -500,6 +499,26 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="Chapter07.lesson07.part02.PlaceSetting04" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="BruceEckel" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="PlaceSetting05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Chapter07.lesson07.part02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Chapter07.lesson07.part02.PlaceSetting05" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -924,19 +943,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Chess07" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Chess08" />
-      <item index="2" class="java.lang.String" itemvalue="Application.PlaceSetting02" />
-      <item index="3" class="java.lang.String" itemvalue="Application.PlaceSetting03" />
-      <item index="4" class="java.lang.String" itemvalue="Application.PlaceSetting04" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Chess08" />
+      <item index="1" class="java.lang.String" itemvalue="Application.PlaceSetting02" />
+      <item index="2" class="java.lang.String" itemvalue="Application.PlaceSetting03" />
+      <item index="3" class="java.lang.String" itemvalue="Application.PlaceSetting04" />
+      <item index="4" class="java.lang.String" itemvalue="Application.PlaceSetting05" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.PlaceSetting04" />
-        <item index="1" class="java.lang.String" itemvalue="Application.PlaceSetting03" />
-        <item index="2" class="java.lang.String" itemvalue="Application.PlaceSetting02" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Chess08" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Chess07" />
+        <item index="0" class="java.lang.String" itemvalue="Application.PlaceSetting05" />
+        <item index="1" class="java.lang.String" itemvalue="Application.PlaceSetting04" />
+        <item index="2" class="java.lang.String" itemvalue="Application.PlaceSetting03" />
+        <item index="3" class="java.lang.String" itemvalue="Application.PlaceSetting02" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Chess08" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -979,13 +998,7 @@
       <workItem from="1448901751851" duration="1508000" />
       <workItem from="1448905815760" duration="8298000" />
       <workItem from="1448987520613" duration="6158000" />
-      <workItem from="1449080076392" duration="2661000" />
-    </task>
-    <task id="LOCAL-00156" summary="add classes for ch07 les01 part02">
-      <created>1448476825789</created>
-      <option name="number" value="00156" />
-      <option name="project" value="LOCAL" />
-      <updated>1448476825801</updated>
+      <workItem from="1449080076392" duration="4457000" />
     </task>
     <task id="LOCAL-00157" summary="add classes for ch07 les01 part02">
       <created>1448477455057</created>
@@ -1275,11 +1288,17 @@
       <option name="project" value="LOCAL" />
       <updated>1449081562805</updated>
     </task>
-    <option name="localTasksCounter" value="205" />
+    <task id="LOCAL-00205" summary="add classes for ch07 les07 part02">
+      <created>1449082783497</created>
+      <option name="number" value="00205" />
+      <option name="project" value="LOCAL" />
+      <updated>1449082783497</updated>
+    </task>
+    <option name="localTasksCounter" value="206" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="215293000" />
+    <option name="totallyTimeSpent" value="217089000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="800" y="1" width="800" height="859" extended-state="0" />
@@ -1368,13 +1387,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter07/lesson01/part02/SprinklerSystem03.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="24" column="42" selection-start-line="24" selection-start-column="42" selection-end-line="24" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Chapter07/lesson01/part02/SprinklerSystem04.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1732,7 +1744,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Chapter07/lesson07/part02/PlaceSetting04.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.845805">
+        <state vertical-scroll-proportion="0.0">
           <caret line="61" column="0" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
           <folding>
             <element signature="e#113#114#0" expanded="true" />
@@ -1743,6 +1755,23 @@
             <element signature="e#900#901#0" expanded="true" />
             <element signature="e#1352#1353#0" expanded="true" />
             <element signature="e#1408#1409#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter07/lesson07/part02/PlaceSetting05.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.845805">
+          <caret line="61" column="1" selection-start-line="61" selection-start-column="1" selection-end-line="61" selection-end-column="1" />
+          <folding>
+            <element signature="e#113#114#0" expanded="true" />
+            <element signature="e#170#171#0" expanded="true" />
+            <element signature="e#357#358#0" expanded="true" />
+            <element signature="e#416#417#0" expanded="true" />
+            <element signature="e#842#843#0" expanded="true" />
+            <element signature="e#900#901#0" expanded="true" />
+            <element signature="e#1354#1355#0" expanded="true" />
+            <element signature="e#1410#1411#0" expanded="true" />
           </folding>
         </state>
       </provider>
