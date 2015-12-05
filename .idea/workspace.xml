@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c11404aa-dddc-48a6-8c31-93898d45847f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter07/lesson07/part022/PlaceSetting07.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter07/lesson07/part022/Desktop01.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="BruceEckel.iws" />
@@ -31,16 +31,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="58" column="49" selection-start-line="58" selection-start-column="49" selection-end-line="58" selection-end-column="49" />
-              <folding>
-                <element signature="e#114#115#0" expanded="true" />
-                <element signature="e#171#172#0" expanded="true" />
-                <element signature="e#358#359#0" expanded="true" />
-                <element signature="e#417#418#0" expanded="true" />
-                <element signature="e#843#844#0" expanded="true" />
-                <element signature="e#901#902#0" expanded="true" />
-                <element signature="e#1353#1354#0" expanded="true" />
-                <element signature="e#1409#1410#0" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -50,13 +41,17 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="58" column="49" selection-start-line="58" selection-start-column="49" selection-end-line="58" selection-end-column="49" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PlaceSetting07.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter07/lesson07/part022/PlaceSetting07.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="58" column="49" selection-start-line="58" selection-start-column="49" selection-end-line="58" selection-end-column="49" />
               <folding>
-                <element signature="e#114#115#0" expanded="true" />
-                <element signature="e#171#172#0" expanded="true" />
-                <element signature="e#358#359#0" expanded="true" />
-                <element signature="e#417#418#0" expanded="true" />
-                <element signature="e#843#844#0" expanded="true" />
-                <element signature="e#901#902#0" expanded="true" />
                 <element signature="e#1353#1354#0" expanded="true" />
                 <element signature="e#1409#1410#0" expanded="true" />
               </folding>
@@ -64,20 +59,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PlaceSetting07.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter07/lesson07/part022/PlaceSetting07.java">
+      <file leaf-file-name="Desktop01.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter07/lesson07/part022/Desktop01.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.92290246">
-              <caret line="58" column="49" selection-start-line="58" selection-start-column="49" selection-end-line="58" selection-end-column="49" />
+            <state vertical-scroll-proportion="1.1746032">
+              <caret line="58" column="39" selection-start-line="58" selection-start-column="39" selection-end-line="58" selection-end-column="39" />
               <folding>
                 <element signature="e#114#115#0" expanded="true" />
                 <element signature="e#171#172#0" expanded="true" />
-                <element signature="e#358#359#0" expanded="true" />
-                <element signature="e#417#418#0" expanded="true" />
-                <element signature="e#843#844#0" expanded="true" />
-                <element signature="e#901#902#0" expanded="true" />
-                <element signature="e#1353#1354#0" expanded="true" />
-                <element signature="e#1409#1410#0" expanded="true" />
+                <element signature="e#363#364#0" expanded="true" />
+                <element signature="e#422#423#0" expanded="true" />
+                <element signature="e#878#879#0" expanded="true" />
+                <element signature="e#936#937#0" expanded="true" />
+                <element signature="e#1379#1380#0" expanded="true" />
+                <element signature="e#1425#1426#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -116,7 +111,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/Chapter07/lesson01/part02/SprinklerSystem14.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter07/lesson02/part02/Bath01.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter07/lesson02/part02/Bath02.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter07/lesson02/part02/Bath03.java" />
@@ -167,6 +161,7 @@
         <option value="$PROJECT_DIR$/src/main/java/Chapter07/lesson07/part022/PlaceSetting05.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter07/lesson07/part022/PlaceSetting06.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter07/lesson07/part022/PlaceSetting07.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chapter07/lesson07/part022/Desktop01.java" />
       </list>
     </option>
   </component>
@@ -215,6 +210,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -292,10 +290,6 @@
               <option name="myItemId" value="part022" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PlaceSetting07.java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -329,6 +323,10 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="part022" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Desktop01.java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -385,9 +383,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -410,27 +405,7 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.PlaceSetting07">
-    <configuration default="false" name="PlaceSetting03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="Chapter07.lesson07.part022.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="Chapter07.lesson07.part022.PlaceSetting03" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="BruceEckel" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.Desktop01">
     <configuration default="false" name="PlaceSetting04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -499,6 +474,26 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="Chapter07.lesson07.part022.PlaceSetting07" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="BruceEckel" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Desktop01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Chapter07.lesson07.part022.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Chapter07.lesson07.part022.Desktop01" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -923,19 +918,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.PlaceSetting03" />
-      <item index="1" class="java.lang.String" itemvalue="Application.PlaceSetting04" />
-      <item index="2" class="java.lang.String" itemvalue="Application.PlaceSetting05" />
-      <item index="3" class="java.lang.String" itemvalue="Application.PlaceSetting06" />
-      <item index="4" class="java.lang.String" itemvalue="Application.PlaceSetting07" />
+      <item index="0" class="java.lang.String" itemvalue="Application.PlaceSetting04" />
+      <item index="1" class="java.lang.String" itemvalue="Application.PlaceSetting05" />
+      <item index="2" class="java.lang.String" itemvalue="Application.PlaceSetting06" />
+      <item index="3" class="java.lang.String" itemvalue="Application.PlaceSetting07" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Desktop01" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.PlaceSetting07" />
-        <item index="1" class="java.lang.String" itemvalue="Application.PlaceSetting06" />
-        <item index="2" class="java.lang.String" itemvalue="Application.PlaceSetting05" />
-        <item index="3" class="java.lang.String" itemvalue="Application.PlaceSetting04" />
-        <item index="4" class="java.lang.String" itemvalue="Application.PlaceSetting03" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Desktop01" />
+        <item index="1" class="java.lang.String" itemvalue="Application.PlaceSetting07" />
+        <item index="2" class="java.lang.String" itemvalue="Application.PlaceSetting06" />
+        <item index="3" class="java.lang.String" itemvalue="Application.PlaceSetting05" />
+        <item index="4" class="java.lang.String" itemvalue="Application.PlaceSetting04" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -980,13 +975,8 @@
       <workItem from="1448987520613" duration="6158000" />
       <workItem from="1449080076392" duration="10641000" />
       <workItem from="1449171210406" duration="5311000" />
-      <workItem from="1449234242595" duration="9639000" />
-    </task>
-    <task id="LOCAL-00167" summary="add classes for ch07 les02 part02">
-      <created>1448566715288</created>
-      <option name="number" value="00167" />
-      <option name="project" value="LOCAL" />
-      <updated>1448566715288</updated>
+      <workItem from="1449234242595" duration="10279000" />
+      <workItem from="1449302370850" duration="3239000" />
     </task>
     <task id="LOCAL-00168" summary="add classes for ch07 les02 part02">
       <created>1448567672721</created>
@@ -1276,11 +1266,17 @@
       <option name="project" value="LOCAL" />
       <updated>1449265937641</updated>
     </task>
-    <option name="localTasksCounter" value="216" />
+    <task id="LOCAL-00216" summary="add classes for ch07 les07 part022">
+      <created>1449267770496</created>
+      <option name="number" value="00216" />
+      <option name="project" value="LOCAL" />
+      <updated>1449267770497</updated>
+    </task>
+    <option name="localTasksCounter" value="217" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="238223000" />
+    <option name="totallyTimeSpent" value="242102000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="800" y="1" width="800" height="859" extended-state="0" />
@@ -1369,13 +1365,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter07/lesson01/part02/SprinklerSystem14.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Chapter07/lesson02/part02/Bath01.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1632,16 +1621,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="58" column="49" selection-start-line="58" selection-start-column="49" selection-end-line="58" selection-end-column="49" />
-          <folding>
-            <element signature="e#113#114#0" expanded="false" />
-            <element signature="e#170#171#0" expanded="false" />
-            <element signature="e#357#358#0" expanded="false" />
-            <element signature="e#416#417#0" expanded="false" />
-            <element signature="e#842#843#0" expanded="false" />
-            <element signature="e#900#901#0" expanded="false" />
-            <element signature="e#1352#1353#0" expanded="false" />
-            <element signature="e#1408#1409#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1649,16 +1628,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="61" column="0" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
-          <folding>
-            <element signature="e#113#114#0" expanded="false" />
-            <element signature="e#170#171#0" expanded="false" />
-            <element signature="e#357#358#0" expanded="false" />
-            <element signature="e#416#417#0" expanded="false" />
-            <element signature="e#842#843#0" expanded="false" />
-            <element signature="e#900#901#0" expanded="false" />
-            <element signature="e#1352#1353#0" expanded="false" />
-            <element signature="e#1408#1409#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1666,10 +1635,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="41" column="27" selection-start-line="41" selection-start-column="27" selection-end-line="41" selection-end-column="27" />
-          <folding>
-            <element signature="e#113#114#0" expanded="false" />
-            <element signature="e#170#171#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1685,10 +1650,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="58" column="49" selection-start-line="58" selection-start-column="49" selection-end-line="58" selection-end-column="49" />
-          <folding>
-            <element signature="e#1354#1355#0" expanded="false" />
-            <element signature="e#1410#1411#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1696,10 +1657,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.79731745">
           <caret line="59" column="5" selection-start-line="59" selection-start-column="5" selection-end-line="59" selection-end-column="5" />
-          <folding>
-            <element signature="e#1354#1355#0" expanded="true" />
-            <element signature="e#1410#1411#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1707,7 +1664,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.82265276">
           <caret line="61" column="1" selection-start-line="61" selection-start-column="1" selection-end-line="61" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1715,7 +1671,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.84798807">
           <caret line="61" column="0" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1723,7 +1678,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.44262296">
           <caret line="44" column="23" selection-start-line="44" selection-start-column="23" selection-end-line="44" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1731,7 +1685,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.5186289">
           <caret line="46" column="23" selection-start-line="46" selection-start-column="23" selection-end-line="46" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1739,16 +1692,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="58" column="49" selection-start-line="58" selection-start-column="49" selection-end-line="58" selection-end-column="49" />
-          <folding>
-            <element signature="e#114#115#0" expanded="true" />
-            <element signature="e#171#172#0" expanded="true" />
-            <element signature="e#358#359#0" expanded="true" />
-            <element signature="e#417#418#0" expanded="true" />
-            <element signature="e#843#844#0" expanded="true" />
-            <element signature="e#901#902#0" expanded="true" />
-            <element signature="e#1353#1354#0" expanded="true" />
-            <element signature="e#1409#1410#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1756,16 +1700,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="58" column="49" selection-start-line="58" selection-start-column="49" selection-end-line="58" selection-end-column="49" />
-          <folding>
-            <element signature="e#114#115#0" expanded="true" />
-            <element signature="e#171#172#0" expanded="true" />
-            <element signature="e#358#359#0" expanded="true" />
-            <element signature="e#417#418#0" expanded="true" />
-            <element signature="e#843#844#0" expanded="true" />
-            <element signature="e#901#902#0" expanded="true" />
-            <element signature="e#1353#1354#0" expanded="true" />
-            <element signature="e#1409#1410#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1773,32 +1707,34 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="58" column="49" selection-start-line="58" selection-start-column="49" selection-end-line="58" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter07/lesson07/part022/PlaceSetting07.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="58" column="49" selection-start-line="58" selection-start-column="49" selection-end-line="58" selection-end-column="49" />
           <folding>
-            <element signature="e#114#115#0" expanded="true" />
-            <element signature="e#171#172#0" expanded="true" />
-            <element signature="e#358#359#0" expanded="true" />
-            <element signature="e#417#418#0" expanded="true" />
-            <element signature="e#843#844#0" expanded="true" />
-            <element signature="e#901#902#0" expanded="true" />
             <element signature="e#1353#1354#0" expanded="true" />
             <element signature="e#1409#1410#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter07/lesson07/part022/PlaceSetting07.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter07/lesson07/part022/Desktop01.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.92290246">
-          <caret line="58" column="49" selection-start-line="58" selection-start-column="49" selection-end-line="58" selection-end-column="49" />
+        <state vertical-scroll-proportion="1.1746032">
+          <caret line="58" column="39" selection-start-line="58" selection-start-column="39" selection-end-line="58" selection-end-column="39" />
           <folding>
             <element signature="e#114#115#0" expanded="true" />
             <element signature="e#171#172#0" expanded="true" />
-            <element signature="e#358#359#0" expanded="true" />
-            <element signature="e#417#418#0" expanded="true" />
-            <element signature="e#843#844#0" expanded="true" />
-            <element signature="e#901#902#0" expanded="true" />
-            <element signature="e#1353#1354#0" expanded="true" />
-            <element signature="e#1409#1410#0" expanded="true" />
+            <element signature="e#363#364#0" expanded="true" />
+            <element signature="e#422#423#0" expanded="true" />
+            <element signature="e#878#879#0" expanded="true" />
+            <element signature="e#936#937#0" expanded="true" />
+            <element signature="e#1379#1380#0" expanded="true" />
+            <element signature="e#1425#1426#0" expanded="true" />
           </folding>
         </state>
       </provider>
