@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c11404aa-dddc-48a6-8c31-93898d45847f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter07/lesson09/part02/Hide10.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter07/lesson09/part02/Hide11.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="BruceEckel.iws" />
@@ -65,11 +65,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Hide10.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Hide10.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Chapter07/lesson09/part02/Hide10.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="1.0314606">
-              <caret line="27" column="32" selection-start-line="27" selection-start-column="32" selection-end-line="27" selection-end-column="32" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+              <folding>
+                <element signature="e#354#355#0" expanded="true" />
+                <element signature="e#407#408#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Hide11.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter07/lesson09/part02/Hide11.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.5797753">
+              <caret line="18" column="43" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
               <folding>
                 <element signature="e#354#355#0" expanded="true" />
                 <element signature="e#407#408#0" expanded="true" />
@@ -112,7 +125,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/Chapter07/lesson05/part02/Chess01.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter07/lesson05/part02/Chess02.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter07/lesson05/part02/Chess03.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter07/lesson05/part02/Chess04.java" />
@@ -163,6 +175,7 @@
         <option value="$PROJECT_DIR$/src/main/java/Chapter07/lesson09/part02/Hide08.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter07/lesson09/part02/Hide09.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter07/lesson09/part02/Hide10.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chapter07/lesson09/part02/Hide11.java" />
       </list>
     </option>
   </component>
@@ -311,7 +324,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Hide10.java" />
+              <option name="myItemId" value="Hide11.java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -407,27 +420,7 @@
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
-  <component name="RunManager" selected="Application.Hide10">
-    <configuration default="false" name="Hide05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="Chapter07.lesson09.part02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="Chapter07.lesson09.part02.Hide05" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="BruceEckel" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.Hide11">
     <configuration default="false" name="Hide07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -496,6 +489,26 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="Chapter07.lesson09.part02.Hide10" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="BruceEckel" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Hide11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Chapter07.lesson09.part02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Chapter07.lesson09.part02.Hide11" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -920,19 +933,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Hide05" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Hide07" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Hide08" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Hide09" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Hide10" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Hide07" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Hide08" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Hide09" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Hide10" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Hide11" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Hide10" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Hide09" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Hide08" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Hide07" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Hide05" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Hide11" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Hide10" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Hide09" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Hide08" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Hide07" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -983,13 +996,7 @@
       <workItem from="1449507680457" duration="12184000" />
       <workItem from="1449552350817" duration="2966000" />
       <workItem from="1449556302004" duration="640000" />
-      <workItem from="1449599295814" duration="2871000" />
-    </task>
-    <task id="LOCAL-00194" summary="add classes for ch07 les05 part02">
-      <created>1448912978528</created>
-      <option name="number" value="00194" />
-      <option name="project" value="LOCAL" />
-      <updated>1448912978528</updated>
+      <workItem from="1449599295814" duration="3238000" />
     </task>
     <task id="LOCAL-00195" summary="add classes for ch07 les05 part02">
       <created>1448913035774</created>
@@ -1279,11 +1286,17 @@
       <option name="project" value="LOCAL" />
       <updated>1449603294599</updated>
     </task>
-    <option name="localTasksCounter" value="243" />
+    <task id="LOCAL-00243" summary="add classes for ch07 les09 part02">
+      <created>1449603694170</created>
+      <option name="number" value="00243" />
+      <option name="project" value="LOCAL" />
+      <updated>1449603694170</updated>
+    </task>
+    <option name="localTasksCounter" value="244" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="279137000" />
+    <option name="totallyTimeSpent" value="279504000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="800" y="1" width="800" height="859" extended-state="0" />
@@ -1372,13 +1385,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter07/lesson05/part02/Chess01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Chapter07/lesson05/part02/Chess02.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1737,8 +1743,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Chapter07/lesson09/part02/Hide10.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.0314606">
-          <caret line="27" column="32" selection-start-line="27" selection-start-column="32" selection-end-line="27" selection-end-column="32" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="e#354#355#0" expanded="true" />
+            <element signature="e#407#408#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter07/lesson09/part02/Hide11.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5797753">
+          <caret line="18" column="43" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
           <folding>
             <element signature="e#354#355#0" expanded="true" />
             <element signature="e#407#408#0" expanded="true" />
