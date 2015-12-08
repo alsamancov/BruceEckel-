@@ -3,7 +3,7 @@ package Chapter07.lesson09.part02;
 /**
  * Created by Alexey on 12/08/2015.
  */
-class Homer07{
+class Homer08{
     char doh(char c){
         System.out.println("doh(char)");
         return 'd';
@@ -13,18 +13,18 @@ class Homer07{
         return 1.0f;
     }
 }
-class Milhouse07{}
-class Bart07 extends Homer07{
-    void doh(Milhouse07 m){
-        System.out.println("doh(Milhouse07)");
+class Milhouse08{}
+class Bart08 extends Homer08{
+    void doh(Milhouse08 m){
+        System.out.println("doh(Milhouse08)");
     }
 }
-public class Hide07 {
+public class Hide08 {
     public static void main(String[] args){
-        Bart07 b = new Bart07();
+        Bart08 b = new Bart08();
         b.doh(1);
         b.doh('x');
         b.doh(1.0f);
-        b.doh(new Milhouse07());
+        b.doh(new Milhouse08());
     }
 }
