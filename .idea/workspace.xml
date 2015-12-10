@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c11404aa-dddc-48a6-8c31-93898d45847f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter07/lesson10/part02/Car03.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter07/lesson10/part02/Car05.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="BruceEckel.iws" />
@@ -36,8 +36,28 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Car03.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Car03.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Chapter07/lesson10/part02/Car03.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="36" column="33" selection-start-line="36" selection-start-column="33" selection-end-line="36" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Car04.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter07/lesson10/part02/Car04.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="36" column="33" selection-start-line="36" selection-start-column="33" selection-end-line="36" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Car05.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter07/lesson10/part02/Car05.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.9120715">
               <caret line="36" column="33" selection-start-line="36" selection-start-column="33" selection-end-line="36" selection-end-column="33" />
@@ -80,8 +100,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/Chapter07/lesson07/part02/PlaceSetting03.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Chapter07/lesson07/part02/PlaceSetting04.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter07/lesson07/part02/PlaceSetting05.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter07/lesson07/part02/PlaceSetting06.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter07/lesson07/part02/PlaceSetting07.java" />
@@ -131,6 +149,8 @@
         <option value="$PROJECT_DIR$/src/main/java/Chapter07/lesson10/part02/Car01.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter07/lesson10/part02/Car02.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter07/lesson10/part02/Car03.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chapter07/lesson10/part02/Car04.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chapter07/lesson10/part02/Car05.java" />
       </list>
     </option>
   </component>
@@ -282,7 +302,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Car03.java" />
+              <option name="myItemId" value="Car05.java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -954,19 +974,7 @@
       <workItem from="1449599295814" duration="5723000" />
       <workItem from="1449638263740" duration="1177000" />
       <workItem from="1449691576972" duration="2039000" />
-      <workItem from="1449725281100" duration="5119000" />
-    </task>
-    <task id="LOCAL-00204" summary="add classes for ch07 les07 part02">
-      <created>1449081562762</created>
-      <option name="number" value="00204" />
-      <option name="project" value="LOCAL" />
-      <updated>1449081562805</updated>
-    </task>
-    <task id="LOCAL-00205" summary="add classes for ch07 les07 part02">
-      <created>1449082783497</created>
-      <option name="number" value="00205" />
-      <option name="project" value="LOCAL" />
-      <updated>1449082783497</updated>
+      <workItem from="1449725281100" duration="5885000" />
     </task>
     <task id="LOCAL-00206" summary="add classes for ch07 les07 part02">
       <created>1449084581305</created>
@@ -1250,11 +1258,23 @@
       <option name="project" value="LOCAL" />
       <updated>1449769605602</updated>
     </task>
-    <option name="localTasksCounter" value="253" />
+    <task id="LOCAL-00253" summary="add classes for ch07 les10 part02">
+      <created>1449771235422</created>
+      <option name="number" value="00253" />
+      <option name="project" value="LOCAL" />
+      <updated>1449771235422</updated>
+    </task>
+    <task id="LOCAL-00254" summary="add classes for ch07 les10 part02">
+      <created>1449771621442</created>
+      <option name="number" value="00254" />
+      <option name="project" value="LOCAL" />
+      <updated>1449771621442</updated>
+    </task>
+    <option name="localTasksCounter" value="255" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="290324000" />
+    <option name="totallyTimeSpent" value="291090000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="800" y="1" width="800" height="859" extended-state="0" />
@@ -1343,20 +1363,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter07/lesson07/part02/PlaceSetting07.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="61" column="0" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter07/lesson07/part02/PlaceSetting08.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="41" column="27" selection-start-line="41" selection-start-column="27" selection-end-line="41" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Chapter07/lesson07/part022/PlaceSetting01.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1711,6 +1717,22 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Chapter07/lesson10/part02/Car03.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="36" column="33" selection-start-line="36" selection-start-column="33" selection-end-line="36" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter07/lesson10/part02/Car04.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="36" column="33" selection-start-line="36" selection-start-column="33" selection-end-line="36" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter07/lesson10/part02/Car05.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.9120715">
           <caret line="36" column="33" selection-start-line="36" selection-start-column="33" selection-end-line="36" selection-end-column="33" />
