@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c11404aa-dddc-48a6-8c31-93898d45847f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter07/lesson10/part02/Car02.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter07/lesson10/part02/Car03.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="BruceEckel.iws" />
@@ -26,8 +26,18 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Car02.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Car02.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Chapter07/lesson10/part02/Car02.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="36" column="33" selection-start-line="36" selection-start-column="33" selection-end-line="36" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Car03.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter07/lesson10/part02/Car03.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.9120715">
               <caret line="36" column="33" selection-start-line="36" selection-start-column="33" selection-end-line="36" selection-end-column="33" />
@@ -70,7 +80,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/Chapter07/lesson07/part02/PlaceSetting02.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter07/lesson07/part02/PlaceSetting03.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter07/lesson07/part02/PlaceSetting04.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter07/lesson07/part02/PlaceSetting05.java" />
@@ -121,6 +130,7 @@
         <option value="$PROJECT_DIR$/src/main/java/Chapter07/lesson10/part01/Car11.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter07/lesson10/part02/Car01.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter07/lesson10/part02/Car02.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chapter07/lesson10/part02/Car03.java" />
       </list>
     </option>
   </component>
@@ -272,7 +282,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Car02.java" />
+              <option name="myItemId" value="Car03.java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -944,13 +954,7 @@
       <workItem from="1449599295814" duration="5723000" />
       <workItem from="1449638263740" duration="1177000" />
       <workItem from="1449691576972" duration="2039000" />
-      <workItem from="1449725281100" duration="3787000" />
-    </task>
-    <task id="LOCAL-00203" summary="add classes for ch07 les07 part02">
-      <created>1449007808512</created>
-      <option name="number" value="00203" />
-      <option name="project" value="LOCAL" />
-      <updated>1449007808512</updated>
+      <workItem from="1449725281100" duration="5119000" />
     </task>
     <task id="LOCAL-00204" summary="add classes for ch07 les07 part02">
       <created>1449081562762</created>
@@ -1240,11 +1244,17 @@
       <option name="project" value="LOCAL" />
       <updated>1449767763659</updated>
     </task>
-    <option name="localTasksCounter" value="252" />
+    <task id="LOCAL-00252" summary="add classes for ch07 les10 part02">
+      <created>1449769605602</created>
+      <option name="number" value="00252" />
+      <option name="project" value="LOCAL" />
+      <updated>1449769605602</updated>
+    </task>
+    <option name="localTasksCounter" value="253" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="288992000" />
+    <option name="totallyTimeSpent" value="290324000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="800" y="1" width="800" height="859" extended-state="0" />
@@ -1333,13 +1343,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter07/lesson07/part02/PlaceSetting06.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="58" column="49" selection-start-line="58" selection-start-column="49" selection-end-line="58" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Chapter07/lesson07/part02/PlaceSetting07.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1700,6 +1703,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Chapter07/lesson10/part02/Car02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="36" column="33" selection-start-line="36" selection-start-column="33" selection-end-line="36" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter07/lesson10/part02/Car03.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.9120715">
           <caret line="36" column="33" selection-start-line="36" selection-start-column="33" selection-end-line="36" selection-end-column="33" />
