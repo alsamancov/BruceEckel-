@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c11404aa-dddc-48a6-8c31-93898d45847f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter06/lesson01/SingleImport18.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Chapter06/lesson01/SingleImport19.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="BruceEckel.iws" />
@@ -39,14 +39,27 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SingleImport18.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SingleImport18.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06/lesson01/SingleImport18.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.305618">
+            <state vertical-scroll-proportion="0.0">
               <caret line="8" column="51" selection-start-line="8" selection-start-column="51" selection-end-line="8" selection-end-column="51" />
               <folding>
                 <element signature="e#173#174#0" expanded="true" />
                 <element signature="e#231#232#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SingleImport19.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06/lesson01/SingleImport19.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.3438202">
+              <caret line="9" column="51" selection-start-line="9" selection-start-column="51" selection-end-line="9" selection-end-column="51" />
+              <folding>
+                <element signature="e#174#175#0" expanded="true" />
+                <element signature="e#232#233#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -86,7 +99,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/Chapter07/lesson08/part2/task08/CADSystem.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter07/lesson08/part2/task09/CADSystem.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter07/lesson09/part02/Hide01.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter07/lesson09/part02/Hide02.java" />
@@ -137,6 +149,7 @@
         <option value="$PROJECT_DIR$/src/main/java/Chapter07/lesson12/part02/Wind08.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter06/lesson01/SingleImport17.java" />
         <option value="$PROJECT_DIR$/src/main/java/Chapter06/lesson01/SingleImport18.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Chapter06/lesson01/SingleImport19.java" />
       </list>
     </option>
   </component>
@@ -916,13 +929,7 @@
       <workItem from="1449691576972" duration="2039000" />
       <workItem from="1449725281100" duration="10040000" />
       <workItem from="1449811245445" duration="1284000" />
-      <workItem from="1449855409876" duration="9395000" />
-    </task>
-    <task id="LOCAL-00233" summary="add classes for ch07 les08 part02">
-      <created>1449522228452</created>
-      <option name="number" value="00233" />
-      <option name="project" value="LOCAL" />
-      <updated>1449522228452</updated>
+      <workItem from="1449855409876" duration="9761000" />
     </task>
     <task id="LOCAL-00234" summary="add classes for ch07 les08 part02">
       <created>1449552903952</created>
@@ -1212,11 +1219,17 @@
       <option name="project" value="LOCAL" />
       <updated>1449864738350</updated>
     </task>
-    <option name="localTasksCounter" value="282" />
+    <task id="LOCAL-00282" summary="add classes for ch06 les11 part03">
+      <created>1449864871057</created>
+      <option name="number" value="00282" />
+      <option name="project" value="LOCAL" />
+      <updated>1449864871057</updated>
+    </task>
+    <option name="localTasksCounter" value="283" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="305924000" />
+    <option name="totallyTimeSpent" value="306290000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="800" y="1" width="800" height="859" extended-state="0" />
@@ -1305,13 +1318,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter07/lesson08/part2/task08/CADSystem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="90" column="0" selection-start-line="90" selection-start-column="0" selection-end-line="90" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Chapter07/lesson08/part2/task09/CADSystem.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1697,8 +1703,8 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
           <folding>
-            <element signature="e#161#162#0" expanded="true" />
-            <element signature="e#185#186#0" expanded="true" />
+            <element signature="e#161#162#0" expanded="false" />
+            <element signature="e#185#186#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1708,8 +1714,8 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
           <folding>
-            <element signature="e#161#162#0" expanded="true" />
-            <element signature="e#185#186#0" expanded="true" />
+            <element signature="e#161#162#0" expanded="false" />
+            <element signature="e#185#186#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1719,8 +1725,8 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
           <folding>
-            <element signature="e#161#162#0" expanded="true" />
-            <element signature="e#185#186#0" expanded="true" />
+            <element signature="e#161#162#0" expanded="false" />
+            <element signature="e#185#186#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1730,8 +1736,8 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
           <folding>
-            <element signature="e#161#162#0" expanded="true" />
-            <element signature="e#185#186#0" expanded="true" />
+            <element signature="e#161#162#0" expanded="false" />
+            <element signature="e#185#186#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1741,8 +1747,8 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
           <folding>
-            <element signature="e#161#162#0" expanded="true" />
-            <element signature="e#185#186#0" expanded="true" />
+            <element signature="e#161#162#0" expanded="false" />
+            <element signature="e#185#186#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1752,8 +1758,8 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
           <folding>
-            <element signature="e#161#162#0" expanded="true" />
-            <element signature="e#185#186#0" expanded="true" />
+            <element signature="e#161#162#0" expanded="false" />
+            <element signature="e#185#186#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1763,8 +1769,8 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
           <folding>
-            <element signature="e#161#162#0" expanded="true" />
-            <element signature="e#185#186#0" expanded="true" />
+            <element signature="e#161#162#0" expanded="false" />
+            <element signature="e#185#186#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1774,8 +1780,8 @@
         <state vertical-scroll-proportion="0.53483146">
           <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
           <folding>
-            <element signature="e#161#162#0" expanded="true" />
-            <element signature="e#185#186#0" expanded="true" />
+            <element signature="e#161#162#0" expanded="false" />
+            <element signature="e#185#186#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1793,11 +1799,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06/lesson01/SingleImport18.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.305618">
+        <state vertical-scroll-proportion="0.0">
           <caret line="8" column="51" selection-start-line="8" selection-start-column="51" selection-end-line="8" selection-end-column="51" />
           <folding>
             <element signature="e#173#174#0" expanded="true" />
             <element signature="e#231#232#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Chapter06/lesson01/SingleImport19.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3438202">
+          <caret line="9" column="51" selection-start-line="9" selection-start-column="51" selection-end-line="9" selection-end-column="51" />
+          <folding>
+            <element signature="e#174#175#0" expanded="true" />
+            <element signature="e#232#233#0" expanded="true" />
           </folding>
         </state>
       </provider>
